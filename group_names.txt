@@ -1,0 +1,2 @@
+MathieuGroup(22)
+SimpleGroup("He")
