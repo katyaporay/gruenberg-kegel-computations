@@ -2,6 +2,7 @@ from build_and_draw import get_primes
 from saved_info import check_edge, get_all_edges, clear_name
 
 edges_by_group = dict()
+extra_groups = ["Fi23"]
 
 with open('gap_exp/fixedpoint_main.txt', 'r') as file:
     next(file)
@@ -24,7 +25,9 @@ for group_and_chi, p1p2 in edges_by_group.items():
     group = group_and_chi[0]
     group = clear_name(group)
     chi = group_and_chi[1]
-    if group.startswith("Aut"):
+    if group in extra_groups:
+        aut_group = "Aut(Fi24')"
+    elif group.startswith("Aut"):
         simple_group = group[3:-1]
         aut_group = group
     else:
@@ -36,15 +39,4 @@ for group_and_chi, p1p2 in edges_by_group.items():
         if not check_edge(aut_group, edge) and ok:
             print("Extra edge:", *edge)
             ok = False
-    # if not group.startswith("Aut"):
-    #     # Check that all required edges are added (presented in p1p2)
-    #     for edge in get_all_edges(aut_group):
-    #         a = edge[0]
-    #         b = edge[1]
-    #         if check_edge(simple_group, edge):
-    #             continue
-    #         # Not (a, b) have to be presented in p1p2
-    #         if not (a, b) in p1p2 and not (b, a) in p1p2 and ok:
-    #             print("Edge not found:", a, b)
-    #             ok = False
     print(ok, group_and_chi, p1p2)

@@ -12,7 +12,8 @@ group_names := [
 ];
 
 additional_groups := [
-    "Fi23",
+    ["Fi23", "Fi23", [3]],
+    [FrobeniusPQ(29, 14), "29:14", [2]],
 ];
 
 # Open output file
@@ -29,8 +30,11 @@ for name in group_names do
     CheckGroup(name, name, prime_divisors, output_file, info_file);
 od;
 
-for name in additional_groups do
-    CheckGroup(name, name, [2, 3], output_file, info_file);
+for pair in additional_groups do
+    G := pair[1];
+    name := pair[2];
+    primes := pair[3];
+    CheckGroup(G, name, primes, output_file, info_file);
 od;
 
 Print("Done. Results written to ", output_file, "\n");

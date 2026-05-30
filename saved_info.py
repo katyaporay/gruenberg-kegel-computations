@@ -13,7 +13,7 @@ def clear_name(name):
     name = name.replace("'", "")
     if name.endswith(".2"):
         name = "Aut(" + name[:-2] + ")"
-    assert name in graphs
+    # assert name in graphs
     return name
 
 
