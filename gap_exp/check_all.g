@@ -13,10 +13,6 @@ group_names := [
 
 additional_groups := [
     "Fi23",
-]
-
-frobenius_groups := [
-#    [29, 7], [23, 11], [17, 16],
 ];
 
 # Open output file
@@ -34,19 +30,7 @@ for name in group_names do
 od;
 
 for name in additional_groups do
-    CheckGroup(name, name, [2, 3], output_file, input_file);
-od;
-
-for pair  in frobenius_groups do
-    p := pair[1];
-    q := pair[2];
-    G := FrobeniusPQ(p, q);
-    if G = fail then
-        PrintTo(output_file, "Fail creating frobenius group ", p, ", ", q);
-        continue;
-    fi;
-    name := Concatenation(String(p), ":", String(q));
-    CheckGroup(G, name, [2, 3], output_file, info_file);
+    CheckGroup(name, name, [2, 3], output_file, info_file);
 od;
 
 Print("Done. Results written to ", output_file, "\n");

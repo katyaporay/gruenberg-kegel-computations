@@ -15,9 +15,9 @@ with open('gap_exp/fixedpoint_main.txt', 'r') as file:
         if p1 == primes[-1]:
             continue
         if p2 == -1:
-            edges_by_group[(group, chi_id)] = edges_by_group.get((group, chi_id), set())
+            edges_by_group[(group, p1, chi_id)] = edges_by_group.get((group, p1, chi_id), set())
         else:
-            edges_by_group[(group, chi_id)].add((p1, p2))
+            edges_by_group[(group, p1, chi_id)].add((p1, p2))
 
 for group_and_chi, p1p2 in edges_by_group.items():
     p1p2 = sorted(p1p2)
