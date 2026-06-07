@@ -1,5 +1,5 @@
-from build_and_draw import get_primes
-from saved_info import check_edge, get_all_edges, clear_name
+from draw.build_and_draw import get_primes
+from draw.saved_info import check_edge, clear_name
 
 edges_by_group = dict()
 extra_groups = ["Fi23"]
