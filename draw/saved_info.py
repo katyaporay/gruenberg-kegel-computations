@@ -1,7 +1,9 @@
+# This is dict of saved graphs: name -> (vertices, edges)
 graphs = dict()
 
 
 def clear_name(name):
+    """It standardises this name, so that, for example, M22.2 would be the same is Aut(M22)"""
     name = name.split("/")[-1]
     name = name.replace("'", "")
     if name.endswith(".2"):
@@ -10,6 +12,7 @@ def clear_name(name):
 
 
 def check_edge(name: str, edge):
+    """Checks is there edge if Gruenberg-Kegel graph of group {name}"""
     name = clear_name(name)
     a = edge[0]
     b = edge[1]
@@ -18,20 +21,24 @@ def check_edge(name: str, edge):
 
 
 def check_saved(name: str):
+    """Check is Gruenberg-Kegel graph of group {name} already saved there"""
     name = clear_name(name)
     return name in graphs
 
 
 def get_graph(name: str):
+    """Returns saved Gruenberg-Kegel graph of group {name}"""
     name = clear_name(name)
     return graphs[name]
 
 
 def get_all_edges(name: str):
+    """Returns all edges of Gruenberg-Kegel graph of group {name}"""
     name = clear_name(name)
     return graphs[name][1]
 
 
+# Some graphs of the first groups are written from Atlas
 graphs['Aut(M22)'] = ([2, 3, 5, 7, 11], {(2, 3), (2, 5), (2, 7)})
 graphs['M22'] = ([2, 3, 5, 7, 11], {(2, 3)})
 graphs['J3'] = ([2, 3, 5, 17, 19], {(2, 3), (2, 5), (3, 5)})

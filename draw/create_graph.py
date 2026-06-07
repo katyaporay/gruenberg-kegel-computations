@@ -3,17 +3,19 @@ from draw.saved_info import *
 import os
 
 
-def get_primes(order):  # Returns list of prime factors of |G|
-    i = 2
+def get_primes(order: int):
+    """Returns list of prime factors of order"""
+    p = 2
     cur_primes = []
-    while i * i <= order:
-        if order % i == 0:
-            cur_primes.append(i)
-            order //= i
-            while order % i == 0:
-                order //= i
-        i += 1
-    if order > 1:
+    while p * p <= order:  # Search for prime factors which are no more than \sqrt{|G|}
+        if order % p == 0:  # This is prime factor
+            cur_primes.append(p)
+            # Divide order by p^k for the biggest k
+            order //= p
+            while order % p == 0:
+                order //= p
+        p += 1
+    if order > 1:  # Check is there prime factor which is more than \sqrt{|G|}
         cur_primes.append(order)
     return cur_primes
 
