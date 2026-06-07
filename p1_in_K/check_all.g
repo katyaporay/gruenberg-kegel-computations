@@ -3,39 +3,44 @@ LoadPackage("ctbllib");
 Read("frobenius.g");
 Read("check_group.g");
 
-# List of character table names for the desired groups and their automorphism groups
+# List of groups which all brauer tables and all absolute irreducible characters will be checked
 group_names := [
-    "M22", "M22.2",
-    "J3", "J3.2",
-    "Fi24'", "Fi24'.2",
-    "ON", "ON.2",
+    "J3",
+    "ON",
 ];
 
+# List of:
+# 1) Value which will be passed to CharacterTable(...)
+# 2) Group name
+# 3) List of primes p1 which will be checked
 additional_groups := [
+    ["M22", "M22", [3, 5, 7]],
+    ["M22.2", "M22.2", [2]],
     ["Fi23", "Fi23", [3]],
-    [FrobeniusPQ(29, 14), "29:14", [2]],
 ];
 
-# Open output file
-output_file := "fixedpoint_results.txt";
-PrintTo(output_file, "Fixed point dimensions for groups J2, HS, McL, Ru and their automorphism groups\n");
-PrintTo(output_file, "================================================================================\n\n");
+# Print first lines for debug
+debug_file := "fixedpoint_debug.txt";
+PrintTo(debug_file, "Fixed point dimensions for groups J2, HS, McL, Ru and their automorphism groups\n");
+PrintTo(debug_file, "================================================================================\n\n");
 
-info_file := "fixedpoint_main.txt";
-PrintTo(info_file, "Group Chi p1 p2 Class Size\n");
+# Print first lines to output
+output_file := "fixedpoint_main.txt";
+PrintTo(output_file, "Group Chi p1 p2 Class Size\n");
 
 for name in group_names do
-    group_order := Size(CharacterTable(name));
-    prime_divisors := Set( FactorsInt( group_order ) );
-    CheckGroup(name, name, prime_divisors, output_file, info_file);
+    group_order := Size(CharacterTable(name)); # Count group order
+    prime_divisors := Set( FactorsInt( group_order ) ); # Create set of all prime divisors
+    CheckGroup(name, name, prime_divisors, output_file, debug_file);
 od;
 
 for pair in additional_groups do
-    G := pair[1];
-    name := pair[2];
-    primes := pair[3];
-    CheckGroup(G, name, primes, output_file, info_file);
+    G := pair[1]; # Value which will be passed to ChatacterTable(...)
+    name := pair[2]; # Group name
+    primes := pair[3]; # List of primes p1 which will be checked
+    CheckGroup(G, name, primes, output_file, debug_file);
 od;
 
-Print("Done. Results written to ", output_file, "\n");
+# Print last line for debug
+Print("Done. Results written to ", debug_file, "\n");
 

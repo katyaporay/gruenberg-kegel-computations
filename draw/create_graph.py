@@ -1,5 +1,5 @@
-from show_gk import draw_graph
-from saved_info import *
+from draw.show_gk import draw_graph
+from draw.saved_info import *
 import os
 
 

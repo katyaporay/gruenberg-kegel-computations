@@ -1,35 +1,47 @@
 Read("find_dim_brauer.g");
 Read("check_table.g");
 
-CheckGroup := function( G, name, primes, output_file, info_file )
-    local tbl, group_order, prime_divisors, prime, brauer_tbl, brauer_irreps,
-        order, chi_idx, chi, chi_deg, nclasses, orders, class_idx, dim_fixed;
+# ----------------------------------------------------------------------
+# Function: CheckGroup( G, name, primes, output_file, debug_file )
+# 
+# Input:
+#   G - value which will be passed to ChatacterTable(...)
+#   name - name of current group
+#   primes - list of primes which will be checked
+#   output_file - file for output
+#   debug_file - file for debug
+#
+# Output:
+#   Some debug information in debug_file and for output_file lines in format `{group name} {index of current representation} {p1} {p2} {index of class} {group order}` where p1 is prime number from primes, representation is modular for p1, p2 is order of element g from some conjugacy class of current group. 
+# ----------------------------------------------------------------------
+
+CheckGroup := function( G, name, primes, output_file, debug_file )
+    local tbl, prime, brauer_tbl; 
     # Load character table
     tbl := CharacterTable(G);
     if tbl = fail then
-        AppendTo(output_file, "ERROR: Character table for ", name, " not found.\n\n");
+        AppendTo(debug_file, "ERROR: Character table for ", name, " not found.\n\n");
         return;
     fi;
     
-    AppendTo(output_file, "Group: ", name, "\n");
-    AppendTo(output_file, "----------------------------------------\n");
-    
-    group_order := Size(tbl);
+    AppendTo(debug_file, "Group: ", name, "\n");
+    AppendTo(debug_file, "----------------------------------------\n");
+   
     for prime in primes do # prime = p1
 
-        AppendTo(output_file, "Prime: ", prime, "\n");
-        AppendTo(output_file, "----------------------------------------\n");
+        AppendTo(debug_file, "Prime: ", prime, "\n");
+        AppendTo(debug_file, "----------------------------------------\n");
 
         # Get all irreducible brauer characters (absolutely irreducible representations)
         brauer_tbl := tbl mod prime;
         if brauer_tbl = fail then
-            AppendTo(output_file, "ERROR: Brauer table not found\n");
+            AppendTo(debug_file, "ERROR: Brauer table not found\n");
             continue;
         fi;
 
-        CheckTable(brauer_tbl, name, prime, output_file, info_file);
+        CheckTable(brauer_tbl, name, prime, output_file, debug_file);
 
     od;
-    AppendTo(output_file, "\n\n");
+    AppendTo(debug_file, "\n\n");
 end;
 

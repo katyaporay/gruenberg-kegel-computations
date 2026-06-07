@@ -1,0 +1,3292 @@
+================================================================================
+
+Group: J3
+----------------------------------------
+Prime: 2
+----------------------------------------
+Character 2 (degree 78):
+  Class 2 (order 3): dim C_V(g) = 24
+  Class 3 (order 3): dim C_V(g) = 24
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 11 (order 17): dim C_V(g) = 6
+  Class 12 (order 17): dim C_V(g) = 6
+  Class 13 (order 19): dim C_V(g) = 6
+  Class 14 (order 19): dim C_V(g) = 6
+
+Character 3 (degree 78):
+  Class 2 (order 3): dim C_V(g) = 24
+  Class 3 (order 3): dim C_V(g) = 24
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 11 (order 17): dim C_V(g) = 6
+  Class 12 (order 17): dim C_V(g) = 6
+  Class 13 (order 19): dim C_V(g) = 6
+  Class 14 (order 19): dim C_V(g) = 6
+
+Character 4 (degree 80):
+  Class 2 (order 3): dim C_V(g) = 32
+  Class 3 (order 3): dim C_V(g) = 26
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 11 (order 17): dim C_V(g) = 8
+  Class 12 (order 17): dim C_V(g) = 8
+  Class 13 (order 19): dim C_V(g) = 8
+  Class 14 (order 19): dim C_V(g) = 8
+
+Character 5 (degree 84):
+  Class 2 (order 3): dim C_V(g) = 24
+  Class 3 (order 3): dim C_V(g) = 30
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 11 (order 17): dim C_V(g) = 4
+  Class 12 (order 17): dim C_V(g) = 4
+  Class 13 (order 19): dim C_V(g) = 3
+  Class 14 (order 19): dim C_V(g) = 3
+
+Character 6 (degree 84):
+  Class 2 (order 3): dim C_V(g) = 24
+  Class 3 (order 3): dim C_V(g) = 30
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 11 (order 17): dim C_V(g) = 4
+  Class 12 (order 17): dim C_V(g) = 4
+  Class 13 (order 19): dim C_V(g) = 3
+  Class 14 (order 19): dim C_V(g) = 3
+
+Character 7 (degree 244):
+  Class 2 (order 3): dim C_V(g) = 82
+  Class 3 (order 3): dim C_V(g) = 82
+  Class 4 (order 5): dim C_V(g) = 48
+  Class 5 (order 5): dim C_V(g) = 48
+  Class 11 (order 17): dim C_V(g) = 12
+  Class 12 (order 17): dim C_V(g) = 12
+  Class 13 (order 19): dim C_V(g) = 10
+  Class 14 (order 19): dim C_V(g) = 10
+
+Character 8 (degree 322):
+  Class 2 (order 3): dim C_V(g) = 112
+  Class 3 (order 3): dim C_V(g) = 106
+  Class 4 (order 5): dim C_V(g) = 64
+  Class 5 (order 5): dim C_V(g) = 64
+  Class 11 (order 17): dim C_V(g) = 18
+  Class 12 (order 17): dim C_V(g) = 18
+  Class 13 (order 19): dim C_V(g) = 16
+  Class 14 (order 19): dim C_V(g) = 16
+
+Character 9 (degree 322):
+  Class 2 (order 3): dim C_V(g) = 112
+  Class 3 (order 3): dim C_V(g) = 106
+  Class 4 (order 5): dim C_V(g) = 64
+  Class 5 (order 5): dim C_V(g) = 64
+  Class 11 (order 17): dim C_V(g) = 18
+  Class 12 (order 17): dim C_V(g) = 18
+  Class 13 (order 19): dim C_V(g) = 16
+  Class 14 (order 19): dim C_V(g) = 16
+
+Character 10 (degree 966):
+  Class 2 (order 3): dim C_V(g) = 324
+  Class 3 (order 3): dim C_V(g) = 318
+  Class 4 (order 5): dim C_V(g) = 194
+  Class 5 (order 5): dim C_V(g) = 194
+  Class 11 (order 17): dim C_V(g) = 54
+  Class 12 (order 17): dim C_V(g) = 54
+  Class 13 (order 19): dim C_V(g) = 48
+  Class 14 (order 19): dim C_V(g) = 48
+
+Character 11 (degree 1920):
+  Class 2 (order 3): dim C_V(g) = 640
+  Class 3 (order 3): dim C_V(g) = 642
+  Class 4 (order 5): dim C_V(g) = 384
+  Class 5 (order 5): dim C_V(g) = 384
+  Class 11 (order 17): dim C_V(g) = 112
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 19): dim C_V(g) = 102
+  Class 14 (order 19): dim C_V(g) = 102
+
+Character 12 (degree 1920):
+  Class 2 (order 3): dim C_V(g) = 640
+  Class 3 (order 3): dim C_V(g) = 642
+  Class 4 (order 5): dim C_V(g) = 384
+  Class 5 (order 5): dim C_V(g) = 384
+  Class 11 (order 17): dim C_V(g) = 112
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 19): dim C_V(g) = 102
+  Class 14 (order 19): dim C_V(g) = 102
+
+Character 13 (degree 1920):
+  Class 2 (order 3): dim C_V(g) = 640
+  Class 3 (order 3): dim C_V(g) = 642
+  Class 4 (order 5): dim C_V(g) = 384
+  Class 5 (order 5): dim C_V(g) = 384
+  Class 11 (order 17): dim C_V(g) = 112
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 19): dim C_V(g) = 102
+  Class 14 (order 19): dim C_V(g) = 102
+
+Character 14 (degree 2432):
+  Class 2 (order 3): dim C_V(g) = 800
+  Class 3 (order 3): dim C_V(g) = 812
+  Class 4 (order 5): dim C_V(g) = 488
+  Class 5 (order 5): dim C_V(g) = 488
+  Class 11 (order 17): dim C_V(g) = 144
+  Class 12 (order 17): dim C_V(g) = 144
+  Class 13 (order 19): dim C_V(g) = 128
+  Class 14 (order 19): dim C_V(g) = 128
+
+Prime: 3
+----------------------------------------
+Character 2 (degree 18):
+  Class 2 (order 2): dim C_V(g) = 10
+  Class 4 (order 5): dim C_V(g) = 4
+  Class 5 (order 5): dim C_V(g) = 4
+  Class 9 (order 17): dim C_V(g) = 2
+  Class 10 (order 17): dim C_V(g) = 2
+  Class 11 (order 19): dim C_V(g) = 0
+  Class 12 (order 19): dim C_V(g) = 0
+
+Character 3 (degree 18):
+  Class 2 (order 2): dim C_V(g) = 10
+  Class 4 (order 5): dim C_V(g) = 4
+  Class 5 (order 5): dim C_V(g) = 4
+  Class 9 (order 17): dim C_V(g) = 2
+  Class 10 (order 17): dim C_V(g) = 2
+  Class 11 (order 19): dim C_V(g) = 0
+  Class 12 (order 19): dim C_V(g) = 0
+
+Character 4 (degree 84):
+  Class 2 (order 2): dim C_V(g) = 44
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 9 (order 17): dim C_V(g) = 4
+  Class 10 (order 17): dim C_V(g) = 4
+  Class 11 (order 19): dim C_V(g) = 3
+  Class 12 (order 19): dim C_V(g) = 3
+
+Character 5 (degree 84):
+  Class 2 (order 2): dim C_V(g) = 44
+  Class 4 (order 5): dim C_V(g) = 16
+  Class 5 (order 5): dim C_V(g) = 16
+  Class 9 (order 17): dim C_V(g) = 4
+  Class 10 (order 17): dim C_V(g) = 4
+  Class 11 (order 19): dim C_V(g) = 3
+  Class 12 (order 19): dim C_V(g) = 3
+
+Character 6 (degree 153):
+  Class 2 (order 2): dim C_V(g) = 73
+  Class 4 (order 5): dim C_V(g) = 31
+  Class 5 (order 5): dim C_V(g) = 31
+  Class 9 (order 17): dim C_V(g) = 9
+  Class 10 (order 17): dim C_V(g) = 9
+  Class 11 (order 19): dim C_V(g) = 9
+  Class 12 (order 19): dim C_V(g) = 9
+
+Character 7 (degree 153):
+  Class 2 (order 2): dim C_V(g) = 73
+  Class 4 (order 5): dim C_V(g) = 31
+  Class 5 (order 5): dim C_V(g) = 31
+  Class 9 (order 17): dim C_V(g) = 9
+  Class 10 (order 17): dim C_V(g) = 9
+  Class 11 (order 19): dim C_V(g) = 9
+  Class 12 (order 19): dim C_V(g) = 9
+
+Character 8 (degree 324):
+  Class 2 (order 2): dim C_V(g) = 164
+  Class 4 (order 5): dim C_V(g) = 64
+  Class 5 (order 5): dim C_V(g) = 64
+  Class 9 (order 17): dim C_V(g) = 20
+  Class 10 (order 17): dim C_V(g) = 20
+  Class 11 (order 19): dim C_V(g) = 18
+  Class 12 (order 19): dim C_V(g) = 18
+
+Character 9 (degree 934):
+  Class 2 (order 2): dim C_V(g) = 470
+  Class 4 (order 5): dim C_V(g) = 186
+  Class 5 (order 5): dim C_V(g) = 186
+  Class 9 (order 17): dim C_V(g) = 54
+  Class 10 (order 17): dim C_V(g) = 54
+  Class 11 (order 19): dim C_V(g) = 52
+  Class 12 (order 19): dim C_V(g) = 52
+
+Character 10 (degree 1215):
+  Class 2 (order 2): dim C_V(g) = 615
+  Class 4 (order 5): dim C_V(g) = 243
+  Class 5 (order 5): dim C_V(g) = 243
+  Class 9 (order 17): dim C_V(g) = 71
+  Class 10 (order 17): dim C_V(g) = 71
+  Class 11 (order 19): dim C_V(g) = 63
+  Class 12 (order 19): dim C_V(g) = 63
+
+Character 11 (degree 1215):
+  Class 2 (order 2): dim C_V(g) = 615
+  Class 4 (order 5): dim C_V(g) = 243
+  Class 5 (order 5): dim C_V(g) = 243
+  Class 9 (order 17): dim C_V(g) = 71
+  Class 10 (order 17): dim C_V(g) = 71
+  Class 11 (order 19): dim C_V(g) = 63
+  Class 12 (order 19): dim C_V(g) = 63
+
+Character 12 (degree 2754):
+  Class 2 (order 2): dim C_V(g) = 1370
+  Class 4 (order 5): dim C_V(g) = 550
+  Class 5 (order 5): dim C_V(g) = 550
+  Class 9 (order 17): dim C_V(g) = 162
+  Class 10 (order 17): dim C_V(g) = 162
+  Class 11 (order 19): dim C_V(g) = 144
+  Class 12 (order 19): dim C_V(g) = 144
+
+Prime: 5
+----------------------------------------
+Character 2 (degree 85):
+  Class 2 (order 2): dim C_V(g) = 45
+  Class 3 (order 3): dim C_V(g) = 25
+  Class 4 (order 3): dim C_V(g) = 31
+  Class 12 (order 17): dim C_V(g) = 5
+  Class 13 (order 17): dim C_V(g) = 5
+  Class 14 (order 19): dim C_V(g) = 4
+  Class 15 (order 19): dim C_V(g) = 4
+
+Character 3 (degree 85):
+  Class 2 (order 2): dim C_V(g) = 45
+  Class 3 (order 3): dim C_V(g) = 25
+  Class 4 (order 3): dim C_V(g) = 31
+  Class 12 (order 17): dim C_V(g) = 5
+  Class 13 (order 17): dim C_V(g) = 5
+  Class 14 (order 19): dim C_V(g) = 4
+  Class 15 (order 19): dim C_V(g) = 4
+
+Character 4 (degree 323):
+  Class 2 (order 2): dim C_V(g) = 163
+  Class 3 (order 3): dim C_V(g) = 113
+  Class 4 (order 3): dim C_V(g) = 107
+  Class 12 (order 17): dim C_V(g) = 19
+  Class 13 (order 17): dim C_V(g) = 19
+  Class 14 (order 19): dim C_V(g) = 17
+  Class 15 (order 19): dim C_V(g) = 17
+
+Character 5 (degree 646):
+  Class 2 (order 2): dim C_V(g) = 318
+  Class 3 (order 3): dim C_V(g) = 220
+  Class 4 (order 3): dim C_V(g) = 214
+  Class 12 (order 17): dim C_V(g) = 38
+  Class 13 (order 17): dim C_V(g) = 38
+  Class 14 (order 19): dim C_V(g) = 34
+  Class 15 (order 19): dim C_V(g) = 34
+
+Character 6 (degree 816):
+  Class 2 (order 2): dim C_V(g) = 400
+  Class 3 (order 3): dim C_V(g) = 276
+  Class 4 (order 3): dim C_V(g) = 276
+  Class 12 (order 17): dim C_V(g) = 48
+  Class 13 (order 17): dim C_V(g) = 48
+  Class 14 (order 19): dim C_V(g) = 42
+  Class 15 (order 19): dim C_V(g) = 42
+
+Character 7 (degree 1140):
+  Class 2 (order 2): dim C_V(g) = 580
+  Class 3 (order 3): dim C_V(g) = 390
+  Class 4 (order 3): dim C_V(g) = 384
+  Class 12 (order 17): dim C_V(g) = 68
+  Class 13 (order 17): dim C_V(g) = 68
+  Class 14 (order 19): dim C_V(g) = 60
+  Class 15 (order 19): dim C_V(g) = 60
+
+Character 8 (degree 1215):
+  Class 2 (order 2): dim C_V(g) = 615
+  Class 3 (order 3): dim C_V(g) = 405
+  Class 4 (order 3): dim C_V(g) = 405
+  Class 12 (order 17): dim C_V(g) = 71
+  Class 13 (order 17): dim C_V(g) = 71
+  Class 14 (order 19): dim C_V(g) = 63
+  Class 15 (order 19): dim C_V(g) = 63
+
+Character 9 (degree 1215):
+  Class 2 (order 2): dim C_V(g) = 615
+  Class 3 (order 3): dim C_V(g) = 405
+  Class 4 (order 3): dim C_V(g) = 405
+  Class 12 (order 17): dim C_V(g) = 71
+  Class 13 (order 17): dim C_V(g) = 71
+  Class 14 (order 19): dim C_V(g) = 63
+  Class 15 (order 19): dim C_V(g) = 63
+
+Character 10 (degree 1615):
+  Class 2 (order 2): dim C_V(g) = 815
+  Class 3 (order 3): dim C_V(g) = 535
+  Class 4 (order 3): dim C_V(g) = 535
+  Class 12 (order 17): dim C_V(g) = 95
+  Class 13 (order 17): dim C_V(g) = 95
+  Class 14 (order 19): dim C_V(g) = 85
+  Class 15 (order 19): dim C_V(g) = 85
+
+Character 11 (degree 1920):
+  Class 2 (order 2): dim C_V(g) = 960
+  Class 3 (order 3): dim C_V(g) = 640
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 17): dim C_V(g) = 112
+  Class 14 (order 19): dim C_V(g) = 102
+  Class 15 (order 19): dim C_V(g) = 102
+
+Character 12 (degree 1920):
+  Class 2 (order 2): dim C_V(g) = 960
+  Class 3 (order 3): dim C_V(g) = 640
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 17): dim C_V(g) = 112
+  Class 14 (order 19): dim C_V(g) = 102
+  Class 15 (order 19): dim C_V(g) = 102
+
+Character 13 (degree 1920):
+  Class 2 (order 2): dim C_V(g) = 960
+  Class 3 (order 3): dim C_V(g) = 640
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 12 (order 17): dim C_V(g) = 112
+  Class 13 (order 17): dim C_V(g) = 112
+  Class 14 (order 19): dim C_V(g) = 102
+  Class 15 (order 19): dim C_V(g) = 102
+
+Character 14 (degree 1938):
+  Class 2 (order 2): dim C_V(g) = 970
+  Class 3 (order 3): dim C_V(g) = 648
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 12 (order 17): dim C_V(g) = 114
+  Class 13 (order 17): dim C_V(g) = 114
+  Class 14 (order 19): dim C_V(g) = 102
+  Class 15 (order 19): dim C_V(g) = 102
+
+Character 15 (degree 2432):
+  Class 2 (order 2): dim C_V(g) = 1216
+  Class 3 (order 3): dim C_V(g) = 800
+  Class 4 (order 3): dim C_V(g) = 812
+  Class 12 (order 17): dim C_V(g) = 144
+  Class 13 (order 17): dim C_V(g) = 144
+  Class 14 (order 19): dim C_V(g) = 128
+  Class 15 (order 19): dim C_V(g) = 128
+
+Prime: 17
+----------------------------------------
+Character 2 (degree 85):
+  Class 2 (order 2): dim C_V(g) = 45
+  Class 3 (order 3): dim C_V(g) = 25
+  Class 4 (order 3): dim C_V(g) = 31
+  Class 6 (order 5): dim C_V(g) = 17
+  Class 7 (order 5): dim C_V(g) = 17
+  Class 18 (order 19): dim C_V(g) = 4
+  Class 19 (order 19): dim C_V(g) = 4
+
+Character 3 (degree 85):
+  Class 2 (order 2): dim C_V(g) = 45
+  Class 3 (order 3): dim C_V(g) = 25
+  Class 4 (order 3): dim C_V(g) = 31
+  Class 6 (order 5): dim C_V(g) = 17
+  Class 7 (order 5): dim C_V(g) = 17
+  Class 18 (order 19): dim C_V(g) = 4
+  Class 19 (order 19): dim C_V(g) = 4
+
+Character 4 (degree 323):
+  Class 2 (order 2): dim C_V(g) = 163
+  Class 3 (order 3): dim C_V(g) = 113
+  Class 4 (order 3): dim C_V(g) = 107
+  Class 6 (order 5): dim C_V(g) = 65
+  Class 7 (order 5): dim C_V(g) = 65
+  Class 18 (order 19): dim C_V(g) = 17
+  Class 19 (order 19): dim C_V(g) = 17
+
+Character 5 (degree 323):
+  Class 2 (order 2): dim C_V(g) = 163
+  Class 3 (order 3): dim C_V(g) = 113
+  Class 4 (order 3): dim C_V(g) = 107
+  Class 6 (order 5): dim C_V(g) = 65
+  Class 7 (order 5): dim C_V(g) = 65
+  Class 18 (order 19): dim C_V(g) = 17
+  Class 19 (order 19): dim C_V(g) = 17
+
+Character 6 (degree 324):
+  Class 2 (order 2): dim C_V(g) = 164
+  Class 3 (order 3): dim C_V(g) = 114
+  Class 4 (order 3): dim C_V(g) = 108
+  Class 6 (order 5): dim C_V(g) = 64
+  Class 7 (order 5): dim C_V(g) = 64
+  Class 18 (order 19): dim C_V(g) = 18
+  Class 19 (order 19): dim C_V(g) = 18
+
+Character 7 (degree 379):
+  Class 2 (order 2): dim C_V(g) = 195
+  Class 3 (order 3): dim C_V(g) = 131
+  Class 4 (order 3): dim C_V(g) = 127
+  Class 6 (order 5): dim C_V(g) = 75
+  Class 7 (order 5): dim C_V(g) = 75
+  Class 18 (order 19): dim C_V(g) = 19
+  Class 19 (order 19): dim C_V(g) = 19
+
+Character 8 (degree 646):
+  Class 2 (order 2): dim C_V(g) = 318
+  Class 3 (order 3): dim C_V(g) = 220
+  Class 4 (order 3): dim C_V(g) = 214
+  Class 6 (order 5): dim C_V(g) = 130
+  Class 7 (order 5): dim C_V(g) = 130
+  Class 18 (order 19): dim C_V(g) = 34
+  Class 19 (order 19): dim C_V(g) = 34
+
+Character 9 (degree 646):
+  Class 2 (order 2): dim C_V(g) = 318
+  Class 3 (order 3): dim C_V(g) = 220
+  Class 4 (order 3): dim C_V(g) = 214
+  Class 6 (order 5): dim C_V(g) = 130
+  Class 7 (order 5): dim C_V(g) = 130
+  Class 18 (order 19): dim C_V(g) = 34
+  Class 19 (order 19): dim C_V(g) = 34
+
+Character 10 (degree 761):
+  Class 2 (order 2): dim C_V(g) = 385
+  Class 3 (order 3): dim C_V(g) = 259
+  Class 4 (order 3): dim C_V(g) = 257
+  Class 6 (order 5): dim C_V(g) = 153
+  Class 7 (order 5): dim C_V(g) = 153
+  Class 18 (order 19): dim C_V(g) = 41
+  Class 19 (order 19): dim C_V(g) = 41
+
+Character 11 (degree 816):
+  Class 2 (order 2): dim C_V(g) = 400
+  Class 3 (order 3): dim C_V(g) = 276
+  Class 4 (order 3): dim C_V(g) = 276
+  Class 6 (order 5): dim C_V(g) = 164
+  Class 7 (order 5): dim C_V(g) = 164
+  Class 18 (order 19): dim C_V(g) = 42
+  Class 19 (order 19): dim C_V(g) = 42
+
+Character 12 (degree 836):
+  Class 2 (order 2): dim C_V(g) = 420
+  Class 3 (order 3): dim C_V(g) = 274
+  Class 4 (order 3): dim C_V(g) = 278
+  Class 6 (order 5): dim C_V(g) = 168
+  Class 7 (order 5): dim C_V(g) = 168
+  Class 18 (order 19): dim C_V(g) = 44
+  Class 19 (order 19): dim C_V(g) = 44
+
+Character 13 (degree 1159):
+  Class 2 (order 2): dim C_V(g) = 575
+  Class 3 (order 3): dim C_V(g) = 381
+  Class 4 (order 3): dim C_V(g) = 385
+  Class 6 (order 5): dim C_V(g) = 231
+  Class 7 (order 5): dim C_V(g) = 231
+  Class 18 (order 19): dim C_V(g) = 61
+  Class 19 (order 19): dim C_V(g) = 61
+
+Character 14 (degree 1596):
+  Class 2 (order 2): dim C_V(g) = 796
+  Class 3 (order 3): dim C_V(g) = 526
+  Class 4 (order 3): dim C_V(g) = 534
+  Class 6 (order 5): dim C_V(g) = 320
+  Class 7 (order 5): dim C_V(g) = 320
+  Class 18 (order 19): dim C_V(g) = 84
+  Class 19 (order 19): dim C_V(g) = 84
+
+Character 15 (degree 1615):
+  Class 2 (order 2): dim C_V(g) = 815
+  Class 3 (order 3): dim C_V(g) = 535
+  Class 4 (order 3): dim C_V(g) = 535
+  Class 6 (order 5): dim C_V(g) = 323
+  Class 7 (order 5): dim C_V(g) = 323
+  Class 18 (order 19): dim C_V(g) = 85
+  Class 19 (order 19): dim C_V(g) = 85
+
+Character 16 (degree 1919):
+  Class 2 (order 2): dim C_V(g) = 959
+  Class 3 (order 3): dim C_V(g) = 639
+  Class 4 (order 3): dim C_V(g) = 641
+  Class 6 (order 5): dim C_V(g) = 383
+  Class 7 (order 5): dim C_V(g) = 383
+  Class 18 (order 19): dim C_V(g) = 101
+  Class 19 (order 19): dim C_V(g) = 101
+
+Character 17 (degree 1938):
+  Class 2 (order 2): dim C_V(g) = 970
+  Class 3 (order 3): dim C_V(g) = 648
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 6 (order 5): dim C_V(g) = 388
+  Class 7 (order 5): dim C_V(g) = 388
+  Class 18 (order 19): dim C_V(g) = 102
+  Class 19 (order 19): dim C_V(g) = 102
+
+Character 18 (degree 1938):
+  Class 2 (order 2): dim C_V(g) = 970
+  Class 3 (order 3): dim C_V(g) = 648
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 6 (order 5): dim C_V(g) = 388
+  Class 7 (order 5): dim C_V(g) = 388
+  Class 18 (order 19): dim C_V(g) = 102
+  Class 19 (order 19): dim C_V(g) = 102
+
+Character 19 (degree 2754):
+  Class 2 (order 2): dim C_V(g) = 1370
+  Class 3 (order 3): dim C_V(g) = 924
+  Class 4 (order 3): dim C_V(g) = 918
+  Class 6 (order 5): dim C_V(g) = 550
+  Class 7 (order 5): dim C_V(g) = 550
+  Class 18 (order 19): dim C_V(g) = 144
+  Class 19 (order 19): dim C_V(g) = 144
+
+Prime: 19
+----------------------------------------
+Character 2 (degree 85):
+  Class 2 (order 2): dim C_V(g) = 45
+  Class 3 (order 3): dim C_V(g) = 25
+  Class 4 (order 3): dim C_V(g) = 31
+  Class 6 (order 5): dim C_V(g) = 17
+  Class 7 (order 5): dim C_V(g) = 17
+  Class 18 (order 17): dim C_V(g) = 5
+  Class 19 (order 17): dim C_V(g) = 5
+
+Character 3 (degree 110):
+  Class 2 (order 2): dim C_V(g) = 54
+  Class 3 (order 3): dim C_V(g) = 40
+  Class 4 (order 3): dim C_V(g) = 38
+  Class 6 (order 5): dim C_V(g) = 22
+  Class 7 (order 5): dim C_V(g) = 22
+  Class 18 (order 17): dim C_V(g) = 6
+  Class 19 (order 17): dim C_V(g) = 6
+
+Character 4 (degree 214):
+  Class 2 (order 2): dim C_V(g) = 110
+  Class 3 (order 3): dim C_V(g) = 74
+  Class 4 (order 3): dim C_V(g) = 70
+  Class 6 (order 5): dim C_V(g) = 42
+  Class 7 (order 5): dim C_V(g) = 42
+  Class 18 (order 17): dim C_V(g) = 14
+  Class 19 (order 17): dim C_V(g) = 14
+
+Character 5 (degree 323):
+  Class 2 (order 2): dim C_V(g) = 163
+  Class 3 (order 3): dim C_V(g) = 113
+  Class 4 (order 3): dim C_V(g) = 107
+  Class 6 (order 5): dim C_V(g) = 65
+  Class 7 (order 5): dim C_V(g) = 65
+  Class 18 (order 17): dim C_V(g) = 19
+  Class 19 (order 17): dim C_V(g) = 19
+
+Character 6 (degree 323):
+  Class 2 (order 2): dim C_V(g) = 163
+  Class 3 (order 3): dim C_V(g) = 113
+  Class 4 (order 3): dim C_V(g) = 107
+  Class 6 (order 5): dim C_V(g) = 65
+  Class 7 (order 5): dim C_V(g) = 65
+  Class 18 (order 17): dim C_V(g) = 19
+  Class 19 (order 17): dim C_V(g) = 19
+
+Character 7 (degree 646):
+  Class 2 (order 2): dim C_V(g) = 318
+  Class 3 (order 3): dim C_V(g) = 220
+  Class 4 (order 3): dim C_V(g) = 214
+  Class 6 (order 5): dim C_V(g) = 130
+  Class 7 (order 5): dim C_V(g) = 130
+  Class 18 (order 17): dim C_V(g) = 38
+  Class 19 (order 17): dim C_V(g) = 38
+
+Character 8 (degree 646):
+  Class 2 (order 2): dim C_V(g) = 318
+  Class 3 (order 3): dim C_V(g) = 220
+  Class 4 (order 3): dim C_V(g) = 214
+  Class 6 (order 5): dim C_V(g) = 130
+  Class 7 (order 5): dim C_V(g) = 130
+  Class 18 (order 17): dim C_V(g) = 38
+  Class 19 (order 17): dim C_V(g) = 38
+
+Character 9 (degree 706):
+  Class 2 (order 2): dim C_V(g) = 346
+  Class 3 (order 3): dim C_V(g) = 236
+  Class 4 (order 3): dim C_V(g) = 238
+  Class 6 (order 5): dim C_V(g) = 142
+  Class 7 (order 5): dim C_V(g) = 142
+  Class 18 (order 17): dim C_V(g) = 42
+  Class 19 (order 17): dim C_V(g) = 42
+
+Character 10 (degree 919):
+  Class 2 (order 2): dim C_V(g) = 455
+  Class 3 (order 3): dim C_V(g) = 309
+  Class 4 (order 3): dim C_V(g) = 307
+  Class 6 (order 5): dim C_V(g) = 183
+  Class 7 (order 5): dim C_V(g) = 183
+  Class 18 (order 17): dim C_V(g) = 55
+  Class 19 (order 17): dim C_V(g) = 55
+
+Character 11 (degree 1001):
+  Class 2 (order 2): dim C_V(g) = 505
+  Class 3 (order 3): dim C_V(g) = 331
+  Class 4 (order 3): dim C_V(g) = 335
+  Class 6 (order 5): dim C_V(g) = 201
+  Class 7 (order 5): dim C_V(g) = 201
+  Class 18 (order 17): dim C_V(g) = 57
+  Class 19 (order 17): dim C_V(g) = 57
+
+Character 12 (degree 1140):
+  Class 2 (order 2): dim C_V(g) = 580
+  Class 3 (order 3): dim C_V(g) = 390
+  Class 4 (order 3): dim C_V(g) = 384
+  Class 6 (order 5): dim C_V(g) = 228
+  Class 7 (order 5): dim C_V(g) = 228
+  Class 18 (order 17): dim C_V(g) = 68
+  Class 19 (order 17): dim C_V(g) = 68
+
+Character 13 (degree 1214):
+  Class 2 (order 2): dim C_V(g) = 614
+  Class 3 (order 3): dim C_V(g) = 404
+  Class 4 (order 3): dim C_V(g) = 404
+  Class 6 (order 5): dim C_V(g) = 242
+  Class 7 (order 5): dim C_V(g) = 242
+  Class 18 (order 17): dim C_V(g) = 70
+  Class 19 (order 17): dim C_V(g) = 70
+
+Character 14 (degree 1615):
+  Class 2 (order 2): dim C_V(g) = 815
+  Class 3 (order 3): dim C_V(g) = 535
+  Class 4 (order 3): dim C_V(g) = 535
+  Class 6 (order 5): dim C_V(g) = 323
+  Class 7 (order 5): dim C_V(g) = 323
+  Class 18 (order 17): dim C_V(g) = 95
+  Class 19 (order 17): dim C_V(g) = 95
+
+Character 15 (degree 1835):
+  Class 2 (order 2): dim C_V(g) = 915
+  Class 3 (order 3): dim C_V(g) = 615
+  Class 4 (order 3): dim C_V(g) = 611
+  Class 6 (order 5): dim C_V(g) = 367
+  Class 7 (order 5): dim C_V(g) = 367
+  Class 18 (order 17): dim C_V(g) = 107
+  Class 19 (order 17): dim C_V(g) = 107
+
+Character 16 (degree 1938):
+  Class 2 (order 2): dim C_V(g) = 970
+  Class 3 (order 3): dim C_V(g) = 648
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 6 (order 5): dim C_V(g) = 388
+  Class 7 (order 5): dim C_V(g) = 388
+  Class 18 (order 17): dim C_V(g) = 114
+  Class 19 (order 17): dim C_V(g) = 114
+
+Character 17 (degree 1938):
+  Class 2 (order 2): dim C_V(g) = 970
+  Class 3 (order 3): dim C_V(g) = 648
+  Class 4 (order 3): dim C_V(g) = 642
+  Class 6 (order 5): dim C_V(g) = 388
+  Class 7 (order 5): dim C_V(g) = 388
+  Class 18 (order 17): dim C_V(g) = 114
+  Class 19 (order 17): dim C_V(g) = 114
+
+Character 18 (degree 2432):
+  Class 2 (order 2): dim C_V(g) = 1216
+  Class 3 (order 3): dim C_V(g) = 800
+  Class 4 (order 3): dim C_V(g) = 812
+  Class 6 (order 5): dim C_V(g) = 488
+  Class 7 (order 5): dim C_V(g) = 488
+  Class 18 (order 17): dim C_V(g) = 144
+  Class 19 (order 17): dim C_V(g) = 144
+
+Character 19 (degree 3078):
+  Class 2 (order 2): dim C_V(g) = 1534
+  Class 3 (order 3): dim C_V(g) = 1020
+  Class 4 (order 3): dim C_V(g) = 1026
+  Class 6 (order 5): dim C_V(g) = 614
+  Class 7 (order 5): dim C_V(g) = 614
+  Class 18 (order 17): dim C_V(g) = 182
+  Class 19 (order 17): dim C_V(g) = 182
+
+
+
+Group: ON
+----------------------------------------
+Prime: 2
+----------------------------------------
+Character 2 (degree 10944):
+  Class 2 (order 3): dim C_V(g) = 3654
+  Class 3 (order 5): dim C_V(g) = 2188
+  Class 4 (order 7): dim C_V(g) = 1578
+  Class 5 (order 7): dim C_V(g) = 1566
+  Class 6 (order 11): dim C_V(g) = 994
+  Class 9 (order 19): dim C_V(g) = 576
+  Class 10 (order 19): dim C_V(g) = 576
+  Class 11 (order 19): dim C_V(g) = 576
+  Class 12 (order 31): dim C_V(g) = 354
+  Class 13 (order 31): dim C_V(g) = 354
+
+Character 3 (degree 12464):
+  Class 2 (order 3): dim C_V(g) = 4148
+  Class 3 (order 5): dim C_V(g) = 2500
+  Class 4 (order 7): dim C_V(g) = 1796
+  Class 5 (order 7): dim C_V(g) = 1778
+  Class 6 (order 11): dim C_V(g) = 1134
+  Class 9 (order 19): dim C_V(g) = 656
+  Class 10 (order 19): dim C_V(g) = 656
+  Class 11 (order 19): dim C_V(g) = 656
+  Class 12 (order 31): dim C_V(g) = 404
+  Class 13 (order 31): dim C_V(g) = 404
+
+Character 4 (degree 13376):
+  Class 2 (order 3): dim C_V(g) = 4466
+  Class 3 (order 5): dim C_V(g) = 2676
+  Class 4 (order 7): dim C_V(g) = 1910
+  Class 5 (order 7): dim C_V(g) = 1910
+  Class 6 (order 11): dim C_V(g) = 1216
+  Class 9 (order 19): dim C_V(g) = 704
+  Class 10 (order 19): dim C_V(g) = 704
+  Class 11 (order 19): dim C_V(g) = 704
+  Class 12 (order 31): dim C_V(g) = 431
+  Class 13 (order 31): dim C_V(g) = 431
+
+Character 5 (degree 13376):
+  Class 2 (order 3): dim C_V(g) = 4466
+  Class 3 (order 5): dim C_V(g) = 2676
+  Class 4 (order 7): dim C_V(g) = 1910
+  Class 5 (order 7): dim C_V(g) = 1910
+  Class 6 (order 11): dim C_V(g) = 1216
+  Class 9 (order 19): dim C_V(g) = 704
+  Class 10 (order 19): dim C_V(g) = 704
+  Class 11 (order 19): dim C_V(g) = 704
+  Class 12 (order 31): dim C_V(g) = 431
+  Class 13 (order 31): dim C_V(g) = 431
+
+Character 6 (degree 19930):
+  Class 2 (order 3): dim C_V(g) = 6646
+  Class 3 (order 5): dim C_V(g) = 3978
+  Class 4 (order 7): dim C_V(g) = 2836
+  Class 5 (order 7): dim C_V(g) = 2848
+  Class 6 (order 11): dim C_V(g) = 1810
+  Class 9 (order 19): dim C_V(g) = 1048
+  Class 10 (order 19): dim C_V(g) = 1048
+  Class 11 (order 19): dim C_V(g) = 1048
+  Class 12 (order 31): dim C_V(g) = 640
+  Class 13 (order 31): dim C_V(g) = 640
+
+Character 7 (degree 25916):
+  Class 2 (order 3): dim C_V(g) = 8636
+  Class 3 (order 5): dim C_V(g) = 5184
+  Class 4 (order 7): dim C_V(g) = 3698
+  Class 5 (order 7): dim C_V(g) = 3704
+  Class 6 (order 11): dim C_V(g) = 2356
+  Class 9 (order 19): dim C_V(g) = 1364
+  Class 10 (order 19): dim C_V(g) = 1364
+  Class 11 (order 19): dim C_V(g) = 1364
+  Class 12 (order 31): dim C_V(g) = 836
+  Class 13 (order 31): dim C_V(g) = 836
+
+Character 8 (degree 32736):
+  Class 2 (order 3): dim C_V(g) = 10920
+  Class 3 (order 5): dim C_V(g) = 6552
+  Class 4 (order 7): dim C_V(g) = 4680
+  Class 5 (order 7): dim C_V(g) = 4674
+  Class 6 (order 11): dim C_V(g) = 2976
+  Class 9 (order 19): dim C_V(g) = 1722
+  Class 10 (order 19): dim C_V(g) = 1722
+  Class 11 (order 19): dim C_V(g) = 1722
+  Class 12 (order 31): dim C_V(g) = 1056
+  Class 13 (order 31): dim C_V(g) = 1056
+
+Character 9 (degree 175616):
+  Class 2 (order 3): dim C_V(g) = 58544
+  Class 3 (order 5): dim C_V(g) = 35120
+  Class 4 (order 7): dim C_V(g) = 25088
+  Class 5 (order 7): dim C_V(g) = 25088
+  Class 6 (order 11): dim C_V(g) = 15966
+  Class 9 (order 19): dim C_V(g) = 9242
+  Class 10 (order 19): dim C_V(g) = 9242
+  Class 11 (order 19): dim C_V(g) = 9242
+  Class 12 (order 31): dim C_V(g) = 5666
+  Class 13 (order 31): dim C_V(g) = 5666
+
+Character 10 (degree 175616):
+  Class 2 (order 3): dim C_V(g) = 58544
+  Class 3 (order 5): dim C_V(g) = 35120
+  Class 4 (order 7): dim C_V(g) = 25088
+  Class 5 (order 7): dim C_V(g) = 25088
+  Class 6 (order 11): dim C_V(g) = 15966
+  Class 9 (order 19): dim C_V(g) = 9242
+  Class 10 (order 19): dim C_V(g) = 9242
+  Class 11 (order 19): dim C_V(g) = 9242
+  Class 12 (order 31): dim C_V(g) = 5666
+  Class 13 (order 31): dim C_V(g) = 5666
+
+Character 11 (degree 207360):
+  Class 2 (order 3): dim C_V(g) = 69120
+  Class 3 (order 5): dim C_V(g) = 41472
+  Class 4 (order 7): dim C_V(g) = 29616
+  Class 5 (order 7): dim C_V(g) = 29622
+  Class 6 (order 11): dim C_V(g) = 18850
+  Class 9 (order 19): dim C_V(g) = 10914
+  Class 10 (order 19): dim C_V(g) = 10914
+  Class 11 (order 19): dim C_V(g) = 10914
+  Class 12 (order 31): dim C_V(g) = 6690
+  Class 13 (order 31): dim C_V(g) = 6690
+
+Character 12 (degree 207360):
+  Class 2 (order 3): dim C_V(g) = 69120
+  Class 3 (order 5): dim C_V(g) = 41472
+  Class 4 (order 7): dim C_V(g) = 29616
+  Class 5 (order 7): dim C_V(g) = 29622
+  Class 6 (order 11): dim C_V(g) = 18850
+  Class 9 (order 19): dim C_V(g) = 10914
+  Class 10 (order 19): dim C_V(g) = 10914
+  Class 11 (order 19): dim C_V(g) = 10914
+  Class 12 (order 31): dim C_V(g) = 6690
+  Class 13 (order 31): dim C_V(g) = 6690
+
+Character 13 (degree 207360):
+  Class 2 (order 3): dim C_V(g) = 69120
+  Class 3 (order 5): dim C_V(g) = 41472
+  Class 4 (order 7): dim C_V(g) = 29616
+  Class 5 (order 7): dim C_V(g) = 29622
+  Class 6 (order 11): dim C_V(g) = 18850
+  Class 9 (order 19): dim C_V(g) = 10914
+  Class 10 (order 19): dim C_V(g) = 10914
+  Class 11 (order 19): dim C_V(g) = 10914
+  Class 12 (order 31): dim C_V(g) = 6690
+  Class 13 (order 31): dim C_V(g) = 6690
+
+Prime: 3
+----------------------------------------
+Character 2 (degree 154):
+  Class 2 (order 2): dim C_V(g) = 74
+  Class 5 (order 5): dim C_V(g) = 30
+  Class 6 (order 7): dim C_V(g) = 28
+  Class 7 (order 7): dim C_V(g) = 22
+  Class 11 (order 11): dim C_V(g) = 14
+  Class 17 (order 19): dim C_V(g) = 10
+  Class 18 (order 19): dim C_V(g) = 10
+  Class 19 (order 19): dim C_V(g) = 10
+  Class 24 (order 31): dim C_V(g) = 4
+  Class 25 (order 31): dim C_V(g) = 4
+
+Character 3 (degree 342):
+  Class 2 (order 2): dim C_V(g) = 174
+  Class 5 (order 5): dim C_V(g) = 66
+  Class 6 (order 7): dim C_V(g) = 48
+  Class 7 (order 7): dim C_V(g) = 48
+  Class 11 (order 11): dim C_V(g) = 32
+  Class 17 (order 19): dim C_V(g) = 18
+  Class 18 (order 19): dim C_V(g) = 18
+  Class 19 (order 19): dim C_V(g) = 18
+  Class 24 (order 31): dim C_V(g) = 12
+  Class 25 (order 31): dim C_V(g) = 12
+
+Character 4 (degree 342):
+  Class 2 (order 2): dim C_V(g) = 174
+  Class 5 (order 5): dim C_V(g) = 66
+  Class 6 (order 7): dim C_V(g) = 48
+  Class 7 (order 7): dim C_V(g) = 48
+  Class 11 (order 11): dim C_V(g) = 32
+  Class 17 (order 19): dim C_V(g) = 18
+  Class 18 (order 19): dim C_V(g) = 18
+  Class 19 (order 19): dim C_V(g) = 18
+  Class 24 (order 31): dim C_V(g) = 12
+  Class 25 (order 31): dim C_V(g) = 12
+
+Character 5 (degree 495):
+  Class 2 (order 2): dim C_V(g) = 255
+  Class 5 (order 5): dim C_V(g) = 99
+  Class 6 (order 7): dim C_V(g) = 75
+  Class 7 (order 7): dim C_V(g) = 69
+  Class 11 (order 11): dim C_V(g) = 45
+  Class 17 (order 19): dim C_V(g) = 27
+  Class 18 (order 19): dim C_V(g) = 27
+  Class 19 (order 19): dim C_V(g) = 27
+  Class 24 (order 31): dim C_V(g) = 15
+  Class 25 (order 31): dim C_V(g) = 15
+
+Character 6 (degree 495):
+  Class 2 (order 2): dim C_V(g) = 255
+  Class 5 (order 5): dim C_V(g) = 99
+  Class 6 (order 7): dim C_V(g) = 75
+  Class 7 (order 7): dim C_V(g) = 69
+  Class 11 (order 11): dim C_V(g) = 45
+  Class 17 (order 19): dim C_V(g) = 27
+  Class 18 (order 19): dim C_V(g) = 27
+  Class 19 (order 19): dim C_V(g) = 27
+  Class 24 (order 31): dim C_V(g) = 15
+  Class 25 (order 31): dim C_V(g) = 15
+
+Character 7 (degree 5643):
+  Class 2 (order 2): dim C_V(g) = 2811
+  Class 5 (order 5): dim C_V(g) = 1131
+  Class 6 (order 7): dim C_V(g) = 813
+  Class 7 (order 7): dim C_V(g) = 807
+  Class 11 (order 11): dim C_V(g) = 513
+  Class 17 (order 19): dim C_V(g) = 297
+  Class 18 (order 19): dim C_V(g) = 297
+  Class 19 (order 19): dim C_V(g) = 297
+  Class 24 (order 31): dim C_V(g) = 183
+  Class 25 (order 31): dim C_V(g) = 183
+
+Character 8 (degree 5643):
+  Class 2 (order 2): dim C_V(g) = 2811
+  Class 5 (order 5): dim C_V(g) = 1131
+  Class 6 (order 7): dim C_V(g) = 813
+  Class 7 (order 7): dim C_V(g) = 807
+  Class 11 (order 11): dim C_V(g) = 513
+  Class 17 (order 19): dim C_V(g) = 297
+  Class 18 (order 19): dim C_V(g) = 297
+  Class 19 (order 19): dim C_V(g) = 297
+  Class 24 (order 31): dim C_V(g) = 183
+  Class 25 (order 31): dim C_V(g) = 183
+
+Character 9 (degree 5643):
+  Class 2 (order 2): dim C_V(g) = 2811
+  Class 5 (order 5): dim C_V(g) = 1131
+  Class 6 (order 7): dim C_V(g) = 813
+  Class 7 (order 7): dim C_V(g) = 807
+  Class 11 (order 11): dim C_V(g) = 513
+  Class 17 (order 19): dim C_V(g) = 297
+  Class 18 (order 19): dim C_V(g) = 297
+  Class 19 (order 19): dim C_V(g) = 297
+  Class 24 (order 31): dim C_V(g) = 183
+  Class 25 (order 31): dim C_V(g) = 183
+
+Character 10 (degree 6138):
+  Class 2 (order 2): dim C_V(g) = 3050
+  Class 5 (order 5): dim C_V(g) = 1226
+  Class 6 (order 7): dim C_V(g) = 888
+  Class 7 (order 7): dim C_V(g) = 876
+  Class 11 (order 11): dim C_V(g) = 558
+  Class 17 (order 19): dim C_V(g) = 324
+  Class 18 (order 19): dim C_V(g) = 324
+  Class 19 (order 19): dim C_V(g) = 324
+  Class 24 (order 31): dim C_V(g) = 198
+  Class 25 (order 31): dim C_V(g) = 198
+
+Character 11 (degree 7238):
+  Class 2 (order 2): dim C_V(g) = 3606
+  Class 5 (order 5): dim C_V(g) = 1450
+  Class 6 (order 7): dim C_V(g) = 1022
+  Class 7 (order 7): dim C_V(g) = 1034
+  Class 11 (order 11): dim C_V(g) = 658
+  Class 17 (order 19): dim C_V(g) = 380
+  Class 18 (order 19): dim C_V(g) = 380
+  Class 19 (order 19): dim C_V(g) = 380
+  Class 24 (order 31): dim C_V(g) = 233
+  Class 25 (order 31): dim C_V(g) = 233
+
+Character 12 (degree 7238):
+  Class 2 (order 2): dim C_V(g) = 3606
+  Class 5 (order 5): dim C_V(g) = 1450
+  Class 6 (order 7): dim C_V(g) = 1022
+  Class 7 (order 7): dim C_V(g) = 1034
+  Class 11 (order 11): dim C_V(g) = 658
+  Class 17 (order 19): dim C_V(g) = 380
+  Class 18 (order 19): dim C_V(g) = 380
+  Class 19 (order 19): dim C_V(g) = 380
+  Class 24 (order 31): dim C_V(g) = 233
+  Class 25 (order 31): dim C_V(g) = 233
+
+Character 13 (degree 10944):
+  Class 2 (order 2): dim C_V(g) = 5504
+  Class 5 (order 5): dim C_V(g) = 2188
+  Class 6 (order 7): dim C_V(g) = 1578
+  Class 7 (order 7): dim C_V(g) = 1566
+  Class 11 (order 11): dim C_V(g) = 994
+  Class 17 (order 19): dim C_V(g) = 576
+  Class 18 (order 19): dim C_V(g) = 576
+  Class 19 (order 19): dim C_V(g) = 576
+  Class 24 (order 31): dim C_V(g) = 354
+  Class 25 (order 31): dim C_V(g) = 354
+
+Character 14 (degree 25606):
+  Class 2 (order 2): dim C_V(g) = 12854
+  Class 5 (order 5): dim C_V(g) = 5122
+  Class 6 (order 7): dim C_V(g) = 3640
+  Class 7 (order 7): dim C_V(g) = 3658
+  Class 11 (order 11): dim C_V(g) = 2326
+  Class 17 (order 19): dim C_V(g) = 1342
+  Class 18 (order 19): dim C_V(g) = 1342
+  Class 19 (order 19): dim C_V(g) = 1342
+  Class 24 (order 31): dim C_V(g) = 826
+  Class 25 (order 31): dim C_V(g) = 826
+
+Character 15 (degree 25761):
+  Class 2 (order 2): dim C_V(g) = 12865
+  Class 5 (order 5): dim C_V(g) = 5153
+  Class 6 (order 7): dim C_V(g) = 3669
+  Class 7 (order 7): dim C_V(g) = 3681
+  Class 11 (order 11): dim C_V(g) = 2341
+  Class 17 (order 19): dim C_V(g) = 1353
+  Class 18 (order 19): dim C_V(g) = 1353
+  Class 19 (order 19): dim C_V(g) = 1353
+  Class 24 (order 31): dim C_V(g) = 831
+  Class 25 (order 31): dim C_V(g) = 831
+
+Character 16 (degree 25761):
+  Class 2 (order 2): dim C_V(g) = 12865
+  Class 5 (order 5): dim C_V(g) = 5153
+  Class 6 (order 7): dim C_V(g) = 3669
+  Class 7 (order 7): dim C_V(g) = 3681
+  Class 11 (order 11): dim C_V(g) = 2341
+  Class 17 (order 19): dim C_V(g) = 1353
+  Class 18 (order 19): dim C_V(g) = 1353
+  Class 19 (order 19): dim C_V(g) = 1353
+  Class 24 (order 31): dim C_V(g) = 831
+  Class 25 (order 31): dim C_V(g) = 831
+
+Character 17 (degree 31249):
+  Class 2 (order 2): dim C_V(g) = 15617
+  Class 5 (order 5): dim C_V(g) = 6253
+  Class 6 (order 7): dim C_V(g) = 4453
+  Class 7 (order 7): dim C_V(g) = 4465
+  Class 11 (order 11): dim C_V(g) = 2839
+  Class 17 (order 19): dim C_V(g) = 1639
+  Class 18 (order 19): dim C_V(g) = 1639
+  Class 19 (order 19): dim C_V(g) = 1639
+  Class 24 (order 31): dim C_V(g) = 1009
+  Class 25 (order 31): dim C_V(g) = 1009
+
+Character 18 (degree 41724):
+  Class 2 (order 2): dim C_V(g) = 20876
+  Class 5 (order 5): dim C_V(g) = 8344
+  Class 6 (order 7): dim C_V(g) = 5940
+  Class 7 (order 7): dim C_V(g) = 5958
+  Class 11 (order 11): dim C_V(g) = 3794
+  Class 17 (order 19): dim C_V(g) = 2196
+  Class 18 (order 19): dim C_V(g) = 2196
+  Class 19 (order 19): dim C_V(g) = 2196
+  Class 24 (order 31): dim C_V(g) = 1344
+  Class 25 (order 31): dim C_V(g) = 1344
+
+Character 19 (degree 104346):
+  Class 2 (order 2): dim C_V(g) = 52154
+  Class 5 (order 5): dim C_V(g) = 20870
+  Class 6 (order 7): dim C_V(g) = 14886
+  Class 7 (order 7): dim C_V(g) = 14910
+  Class 11 (order 11): dim C_V(g) = 9486
+  Class 17 (order 19): dim C_V(g) = 5490
+  Class 18 (order 19): dim C_V(g) = 5490
+  Class 19 (order 19): dim C_V(g) = 5490
+  Class 24 (order 31): dim C_V(g) = 3366
+  Class 25 (order 31): dim C_V(g) = 3366
+
+Character 20 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 5 (order 5): dim C_V(g) = 33858
+  Class 6 (order 7): dim C_V(g) = 24180
+  Class 7 (order 7): dim C_V(g) = 24186
+  Class 11 (order 11): dim C_V(g) = 15390
+  Class 17 (order 19): dim C_V(g) = 8910
+  Class 18 (order 19): dim C_V(g) = 8910
+  Class 19 (order 19): dim C_V(g) = 8910
+  Class 24 (order 31): dim C_V(g) = 5460
+  Class 25 (order 31): dim C_V(g) = 5460
+
+Character 21 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 5 (order 5): dim C_V(g) = 33858
+  Class 6 (order 7): dim C_V(g) = 24180
+  Class 7 (order 7): dim C_V(g) = 24186
+  Class 11 (order 11): dim C_V(g) = 15390
+  Class 17 (order 19): dim C_V(g) = 8910
+  Class 18 (order 19): dim C_V(g) = 8910
+  Class 19 (order 19): dim C_V(g) = 8910
+  Class 24 (order 31): dim C_V(g) = 5460
+  Class 25 (order 31): dim C_V(g) = 5460
+
+Character 22 (degree 175770):
+  Class 2 (order 2): dim C_V(g) = 87930
+  Class 5 (order 5): dim C_V(g) = 35154
+  Class 6 (order 7): dim C_V(g) = 25116
+  Class 7 (order 7): dim C_V(g) = 25110
+  Class 11 (order 11): dim C_V(g) = 15980
+  Class 17 (order 19): dim C_V(g) = 9252
+  Class 18 (order 19): dim C_V(g) = 9252
+  Class 19 (order 19): dim C_V(g) = 9252
+  Class 24 (order 31): dim C_V(g) = 5670
+  Class 25 (order 31): dim C_V(g) = 5670
+
+Character 23 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 5 (order 5): dim C_V(g) = 41472
+  Class 6 (order 7): dim C_V(g) = 29616
+  Class 7 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 17 (order 19): dim C_V(g) = 10914
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 24 (order 31): dim C_V(g) = 6690
+  Class 25 (order 31): dim C_V(g) = 6690
+
+Character 24 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 5 (order 5): dim C_V(g) = 41472
+  Class 6 (order 7): dim C_V(g) = 29616
+  Class 7 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 17 (order 19): dim C_V(g) = 10914
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 24 (order 31): dim C_V(g) = 6690
+  Class 25 (order 31): dim C_V(g) = 6690
+
+Character 25 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 5 (order 5): dim C_V(g) = 41472
+  Class 6 (order 7): dim C_V(g) = 29616
+  Class 7 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 17 (order 19): dim C_V(g) = 10914
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 24 (order 31): dim C_V(g) = 6690
+  Class 25 (order 31): dim C_V(g) = 6690
+
+Prime: 5
+----------------------------------------
+Character 2 (degree 10943):
+  Class 2 (order 2): dim C_V(g) = 5503
+  Class 3 (order 3): dim C_V(g) = 3653
+  Class 7 (order 7): dim C_V(g) = 1577
+  Class 8 (order 7): dim C_V(g) = 1565
+  Class 11 (order 11): dim C_V(g) = 993
+  Class 18 (order 19): dim C_V(g) = 575
+  Class 19 (order 19): dim C_V(g) = 575
+  Class 20 (order 19): dim C_V(g) = 575
+  Class 23 (order 31): dim C_V(g) = 353
+  Class 24 (order 31): dim C_V(g) = 353
+
+Character 3 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 7 (order 7): dim C_V(g) = 1910
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 11 (order 11): dim C_V(g) = 1216
+  Class 18 (order 19): dim C_V(g) = 704
+  Class 19 (order 19): dim C_V(g) = 704
+  Class 20 (order 19): dim C_V(g) = 704
+  Class 23 (order 31): dim C_V(g) = 431
+  Class 24 (order 31): dim C_V(g) = 431
+
+Character 4 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 7 (order 7): dim C_V(g) = 1910
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 11 (order 11): dim C_V(g) = 1216
+  Class 18 (order 19): dim C_V(g) = 704
+  Class 19 (order 19): dim C_V(g) = 704
+  Class 20 (order 19): dim C_V(g) = 704
+  Class 23 (order 31): dim C_V(g) = 431
+  Class 24 (order 31): dim C_V(g) = 431
+
+Character 5 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 7 (order 7): dim C_V(g) = 3698
+  Class 8 (order 7): dim C_V(g) = 3704
+  Class 11 (order 11): dim C_V(g) = 2356
+  Class 18 (order 19): dim C_V(g) = 1364
+  Class 19 (order 19): dim C_V(g) = 1364
+  Class 20 (order 19): dim C_V(g) = 1364
+  Class 23 (order 31): dim C_V(g) = 836
+  Class 24 (order 31): dim C_V(g) = 836
+
+Character 6 (degree 26752):
+  Class 2 (order 2): dim C_V(g) = 13440
+  Class 3 (order 3): dim C_V(g) = 8932
+  Class 7 (order 7): dim C_V(g) = 3820
+  Class 8 (order 7): dim C_V(g) = 3820
+  Class 11 (order 11): dim C_V(g) = 2432
+  Class 18 (order 19): dim C_V(g) = 1408
+  Class 19 (order 19): dim C_V(g) = 1408
+  Class 20 (order 19): dim C_V(g) = 1408
+  Class 23 (order 31): dim C_V(g) = 862
+  Class 24 (order 31): dim C_V(g) = 862
+
+Character 7 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 7 (order 7): dim C_V(g) = 4633
+  Class 8 (order 7): dim C_V(g) = 4627
+  Class 11 (order 11): dim C_V(g) = 2945
+  Class 18 (order 19): dim C_V(g) = 1705
+  Class 19 (order 19): dim C_V(g) = 1705
+  Class 20 (order 19): dim C_V(g) = 1705
+  Class 23 (order 31): dim C_V(g) = 1045
+  Class 24 (order 31): dim C_V(g) = 1045
+
+Character 8 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 7 (order 7): dim C_V(g) = 4633
+  Class 8 (order 7): dim C_V(g) = 4627
+  Class 11 (order 11): dim C_V(g) = 2945
+  Class 18 (order 19): dim C_V(g) = 1705
+  Class 19 (order 19): dim C_V(g) = 1705
+  Class 20 (order 19): dim C_V(g) = 1705
+  Class 23 (order 31): dim C_V(g) = 1045
+  Class 24 (order 31): dim C_V(g) = 1045
+
+Character 9 (degree 37696):
+  Class 2 (order 2): dim C_V(g) = 18816
+  Class 3 (order 3): dim C_V(g) = 12586
+  Class 7 (order 7): dim C_V(g) = 5398
+  Class 8 (order 7): dim C_V(g) = 5386
+  Class 11 (order 11): dim C_V(g) = 3426
+  Class 18 (order 19): dim C_V(g) = 1984
+  Class 19 (order 19): dim C_V(g) = 1984
+  Class 20 (order 19): dim C_V(g) = 1984
+  Class 23 (order 31): dim C_V(g) = 1216
+  Class 24 (order 31): dim C_V(g) = 1216
+
+Character 10 (degree 47368):
+  Class 2 (order 2): dim C_V(g) = 23688
+  Class 3 (order 3): dim C_V(g) = 15778
+  Class 7 (order 7): dim C_V(g) = 6754
+  Class 8 (order 7): dim C_V(g) = 6766
+  Class 11 (order 11): dim C_V(g) = 4308
+  Class 18 (order 19): dim C_V(g) = 2494
+  Class 19 (order 19): dim C_V(g) = 2494
+  Class 20 (order 19): dim C_V(g) = 2494
+  Class 23 (order 31): dim C_V(g) = 1528
+  Class 24 (order 31): dim C_V(g) = 1528
+
+Character 11 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 7 (order 7): dim C_V(g) = 8331
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 11 (order 11): dim C_V(g) = 5301
+  Class 18 (order 19): dim C_V(g) = 3069
+  Class 19 (order 19): dim C_V(g) = 3069
+  Class 20 (order 19): dim C_V(g) = 3069
+  Class 23 (order 31): dim C_V(g) = 1881
+  Class 24 (order 31): dim C_V(g) = 1881
+
+Character 12 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 7 (order 7): dim C_V(g) = 8331
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 11 (order 11): dim C_V(g) = 5301
+  Class 18 (order 19): dim C_V(g) = 3069
+  Class 19 (order 19): dim C_V(g) = 3069
+  Class 20 (order 19): dim C_V(g) = 3069
+  Class 23 (order 31): dim C_V(g) = 1881
+  Class 24 (order 31): dim C_V(g) = 1881
+
+Character 13 (degree 58653):
+  Class 2 (order 2): dim C_V(g) = 29309
+  Class 3 (order 3): dim C_V(g) = 19557
+  Class 7 (order 7): dim C_V(g) = 8379
+  Class 8 (order 7): dim C_V(g) = 8379
+  Class 11 (order 11): dim C_V(g) = 5333
+  Class 18 (order 19): dim C_V(g) = 3087
+  Class 19 (order 19): dim C_V(g) = 3087
+  Class 20 (order 19): dim C_V(g) = 3087
+  Class 23 (order 31): dim C_V(g) = 1893
+  Class 24 (order 31): dim C_V(g) = 1893
+
+Character 14 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 7 (order 7): dim C_V(g) = 9266
+  Class 8 (order 7): dim C_V(g) = 9254
+  Class 11 (order 11): dim C_V(g) = 5890
+  Class 18 (order 19): dim C_V(g) = 3410
+  Class 19 (order 19): dim C_V(g) = 3410
+  Class 20 (order 19): dim C_V(g) = 3410
+  Class 23 (order 31): dim C_V(g) = 2090
+  Class 24 (order 31): dim C_V(g) = 2090
+
+Character 15 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 7 (order 7): dim C_V(g) = 9266
+  Class 8 (order 7): dim C_V(g) = 9254
+  Class 11 (order 11): dim C_V(g) = 5890
+  Class 18 (order 19): dim C_V(g) = 3410
+  Class 19 (order 19): dim C_V(g) = 3410
+  Class 20 (order 19): dim C_V(g) = 3410
+  Class 23 (order 31): dim C_V(g) = 2090
+  Class 24 (order 31): dim C_V(g) = 2090
+
+Character 16 (degree 116963):
+  Class 2 (order 2): dim C_V(g) = 58499
+  Class 3 (order 3): dim C_V(g) = 38987
+  Class 7 (order 7): dim C_V(g) = 16709
+  Class 8 (order 7): dim C_V(g) = 16709
+  Class 11 (order 11): dim C_V(g) = 10633
+  Class 18 (order 19): dim C_V(g) = 6155
+  Class 19 (order 19): dim C_V(g) = 6155
+  Class 20 (order 19): dim C_V(g) = 6155
+  Class 23 (order 31): dim C_V(g) = 3773
+  Class 24 (order 31): dim C_V(g) = 3773
+
+Character 17 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 7 (order 7): dim C_V(g) = 24180
+  Class 8 (order 7): dim C_V(g) = 24186
+  Class 11 (order 11): dim C_V(g) = 15390
+  Class 18 (order 19): dim C_V(g) = 8910
+  Class 19 (order 19): dim C_V(g) = 8910
+  Class 20 (order 19): dim C_V(g) = 8910
+  Class 23 (order 31): dim C_V(g) = 5460
+  Class 24 (order 31): dim C_V(g) = 5460
+
+Character 18 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 7 (order 7): dim C_V(g) = 24180
+  Class 8 (order 7): dim C_V(g) = 24186
+  Class 11 (order 11): dim C_V(g) = 15390
+  Class 18 (order 19): dim C_V(g) = 8910
+  Class 19 (order 19): dim C_V(g) = 8910
+  Class 20 (order 19): dim C_V(g) = 8910
+  Class 23 (order 31): dim C_V(g) = 5460
+  Class 24 (order 31): dim C_V(g) = 5460
+
+Character 19 (degree 175770):
+  Class 2 (order 2): dim C_V(g) = 87930
+  Class 3 (order 3): dim C_V(g) = 58590
+  Class 7 (order 7): dim C_V(g) = 25116
+  Class 8 (order 7): dim C_V(g) = 25110
+  Class 11 (order 11): dim C_V(g) = 15980
+  Class 18 (order 19): dim C_V(g) = 9252
+  Class 19 (order 19): dim C_V(g) = 9252
+  Class 20 (order 19): dim C_V(g) = 9252
+  Class 23 (order 31): dim C_V(g) = 5670
+  Class 24 (order 31): dim C_V(g) = 5670
+
+Character 20 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 3 (order 3): dim C_V(g) = 69120
+  Class 7 (order 7): dim C_V(g) = 29616
+  Class 8 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 20 (order 19): dim C_V(g) = 10914
+  Class 23 (order 31): dim C_V(g) = 6690
+  Class 24 (order 31): dim C_V(g) = 6690
+
+Character 21 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 3 (order 3): dim C_V(g) = 69120
+  Class 7 (order 7): dim C_V(g) = 29616
+  Class 8 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 20 (order 19): dim C_V(g) = 10914
+  Class 23 (order 31): dim C_V(g) = 6690
+  Class 24 (order 31): dim C_V(g) = 6690
+
+Character 22 (degree 207360):
+  Class 2 (order 2): dim C_V(g) = 103680
+  Class 3 (order 3): dim C_V(g) = 69120
+  Class 7 (order 7): dim C_V(g) = 29616
+  Class 8 (order 7): dim C_V(g) = 29622
+  Class 11 (order 11): dim C_V(g) = 18850
+  Class 18 (order 19): dim C_V(g) = 10914
+  Class 19 (order 19): dim C_V(g) = 10914
+  Class 20 (order 19): dim C_V(g) = 10914
+  Class 23 (order 31): dim C_V(g) = 6690
+  Class 24 (order 31): dim C_V(g) = 6690
+
+Character 23 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 7 (order 7): dim C_V(g) = 33446
+  Class 8 (order 7): dim C_V(g) = 33440
+  Class 11 (order 11): dim C_V(g) = 21280
+  Class 18 (order 19): dim C_V(g) = 12320
+  Class 19 (order 19): dim C_V(g) = 12320
+  Class 20 (order 19): dim C_V(g) = 12320
+  Class 23 (order 31): dim C_V(g) = 7550
+  Class 24 (order 31): dim C_V(g) = 7550
+
+Character 24 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 7 (order 7): dim C_V(g) = 33446
+  Class 8 (order 7): dim C_V(g) = 33440
+  Class 11 (order 11): dim C_V(g) = 21280
+  Class 18 (order 19): dim C_V(g) = 12320
+  Class 19 (order 19): dim C_V(g) = 12320
+  Class 20 (order 19): dim C_V(g) = 12320
+  Class 23 (order 31): dim C_V(g) = 7550
+  Class 24 (order 31): dim C_V(g) = 7550
+
+Prime: 7
+----------------------------------------
+Character 2 (degree 406):
+  Class 2 (order 2): dim C_V(g) = 206
+  Class 3 (order 3): dim C_V(g) = 136
+  Class 6 (order 5): dim C_V(g) = 82
+  Class 11 (order 11): dim C_V(g) = 36
+  Class 19 (order 19): dim C_V(g) = 22
+  Class 20 (order 19): dim C_V(g) = 22
+  Class 21 (order 19): dim C_V(g) = 22
+  Class 24 (order 31): dim C_V(g) = 16
+  Class 25 (order 31): dim C_V(g) = 16
+
+Character 3 (degree 1221):
+  Class 2 (order 2): dim C_V(g) = 605
+  Class 3 (order 3): dim C_V(g) = 411
+  Class 6 (order 5): dim C_V(g) = 245
+  Class 11 (order 11): dim C_V(g) = 111
+  Class 19 (order 19): dim C_V(g) = 63
+  Class 20 (order 19): dim C_V(g) = 63
+  Class 21 (order 19): dim C_V(g) = 63
+  Class 24 (order 31): dim C_V(g) = 36
+  Class 25 (order 31): dim C_V(g) = 36
+
+Character 4 (degree 1221):
+  Class 2 (order 2): dim C_V(g) = 605
+  Class 3 (order 3): dim C_V(g) = 411
+  Class 6 (order 5): dim C_V(g) = 245
+  Class 11 (order 11): dim C_V(g) = 111
+  Class 19 (order 19): dim C_V(g) = 63
+  Class 20 (order 19): dim C_V(g) = 63
+  Class 21 (order 19): dim C_V(g) = 63
+  Class 24 (order 31): dim C_V(g) = 36
+  Class 25 (order 31): dim C_V(g) = 36
+
+Character 5 (degree 1618):
+  Class 2 (order 2): dim C_V(g) = 810
+  Class 3 (order 3): dim C_V(g) = 538
+  Class 6 (order 5): dim C_V(g) = 322
+  Class 11 (order 11): dim C_V(g) = 148
+  Class 19 (order 19): dim C_V(g) = 88
+  Class 20 (order 19): dim C_V(g) = 88
+  Class 21 (order 19): dim C_V(g) = 88
+  Class 24 (order 31): dim C_V(g) = 58
+  Class 25 (order 31): dim C_V(g) = 58
+
+Character 6 (degree 7281):
+  Class 2 (order 2): dim C_V(g) = 3649
+  Class 3 (order 3): dim C_V(g) = 2421
+  Class 6 (order 5): dim C_V(g) = 1457
+  Class 11 (order 11): dim C_V(g) = 661
+  Class 19 (order 19): dim C_V(g) = 381
+  Class 20 (order 19): dim C_V(g) = 381
+  Class 21 (order 19): dim C_V(g) = 381
+  Class 24 (order 31): dim C_V(g) = 231
+  Class 25 (order 31): dim C_V(g) = 231
+
+Character 7 (degree 7281):
+  Class 2 (order 2): dim C_V(g) = 3649
+  Class 3 (order 3): dim C_V(g) = 2421
+  Class 6 (order 5): dim C_V(g) = 1457
+  Class 11 (order 11): dim C_V(g) = 661
+  Class 19 (order 19): dim C_V(g) = 381
+  Class 20 (order 19): dim C_V(g) = 381
+  Class 21 (order 19): dim C_V(g) = 381
+  Class 24 (order 31): dim C_V(g) = 231
+  Class 25 (order 31): dim C_V(g) = 231
+
+Character 8 (degree 9326):
+  Class 2 (order 2): dim C_V(g) = 4694
+  Class 3 (order 3): dim C_V(g) = 3116
+  Class 6 (order 5): dim C_V(g) = 1866
+  Class 11 (order 11): dim C_V(g) = 846
+  Class 19 (order 19): dim C_V(g) = 488
+  Class 20 (order 19): dim C_V(g) = 488
+  Class 21 (order 19): dim C_V(g) = 488
+  Class 24 (order 31): dim C_V(g) = 296
+  Class 25 (order 31): dim C_V(g) = 296
+
+Character 9 (degree 12155):
+  Class 2 (order 2): dim C_V(g) = 6051
+  Class 3 (order 3): dim C_V(g) = 4055
+  Class 6 (order 5): dim C_V(g) = 2431
+  Class 11 (order 11): dim C_V(g) = 1105
+  Class 19 (order 19): dim C_V(g) = 641
+  Class 20 (order 19): dim C_V(g) = 641
+  Class 21 (order 19): dim C_V(g) = 641
+  Class 24 (order 31): dim C_V(g) = 395
+  Class 25 (order 31): dim C_V(g) = 395
+
+Character 10 (degree 12155):
+  Class 2 (order 2): dim C_V(g) = 6051
+  Class 3 (order 3): dim C_V(g) = 4055
+  Class 6 (order 5): dim C_V(g) = 2431
+  Class 11 (order 11): dim C_V(g) = 1105
+  Class 19 (order 19): dim C_V(g) = 641
+  Class 20 (order 19): dim C_V(g) = 641
+  Class 21 (order 19): dim C_V(g) = 641
+  Class 24 (order 31): dim C_V(g) = 395
+  Class 25 (order 31): dim C_V(g) = 395
+
+Character 11 (degree 13355):
+  Class 2 (order 2): dim C_V(g) = 6683
+  Class 3 (order 3): dim C_V(g) = 4445
+  Class 6 (order 5): dim C_V(g) = 2671
+  Class 11 (order 11): dim C_V(g) = 1215
+  Class 19 (order 19): dim C_V(g) = 701
+  Class 20 (order 19): dim C_V(g) = 701
+  Class 21 (order 19): dim C_V(g) = 701
+  Class 24 (order 31): dim C_V(g) = 425
+  Class 25 (order 31): dim C_V(g) = 425
+
+Character 12 (degree 14169):
+  Class 2 (order 2): dim C_V(g) = 7081
+  Class 3 (order 3): dim C_V(g) = 4719
+  Class 6 (order 5): dim C_V(g) = 2833
+  Class 11 (order 11): dim C_V(g) = 1289
+  Class 19 (order 19): dim C_V(g) = 747
+  Class 20 (order 19): dim C_V(g) = 747
+  Class 21 (order 19): dim C_V(g) = 747
+  Class 24 (order 31): dim C_V(g) = 459
+  Class 25 (order 31): dim C_V(g) = 459
+
+Character 13 (degree 14169):
+  Class 2 (order 2): dim C_V(g) = 7081
+  Class 3 (order 3): dim C_V(g) = 4719
+  Class 6 (order 5): dim C_V(g) = 2833
+  Class 11 (order 11): dim C_V(g) = 1289
+  Class 19 (order 19): dim C_V(g) = 747
+  Class 20 (order 19): dim C_V(g) = 747
+  Class 21 (order 19): dim C_V(g) = 747
+  Class 24 (order 31): dim C_V(g) = 459
+  Class 25 (order 31): dim C_V(g) = 459
+
+Character 14 (degree 15807):
+  Class 2 (order 2): dim C_V(g) = 7935
+  Class 3 (order 3): dim C_V(g) = 5277
+  Class 6 (order 5): dim C_V(g) = 3163
+  Class 11 (order 11): dim C_V(g) = 1437
+  Class 19 (order 19): dim C_V(g) = 831
+  Class 20 (order 19): dim C_V(g) = 831
+  Class 21 (order 19): dim C_V(g) = 831
+  Class 24 (order 31): dim C_V(g) = 507
+  Class 25 (order 31): dim C_V(g) = 507
+
+Character 15 (degree 35254):
+  Class 2 (order 2): dim C_V(g) = 17606
+  Class 3 (order 3): dim C_V(g) = 11764
+  Class 6 (order 5): dim C_V(g) = 7050
+  Class 11 (order 11): dim C_V(g) = 3204
+  Class 19 (order 19): dim C_V(g) = 1858
+  Class 20 (order 19): dim C_V(g) = 1858
+  Class 21 (order 19): dim C_V(g) = 1858
+  Class 24 (order 31): dim C_V(g) = 1144
+  Class 25 (order 31): dim C_V(g) = 1144
+
+Character 16 (degree 42526):
+  Class 2 (order 2): dim C_V(g) = 21286
+  Class 3 (order 3): dim C_V(g) = 14176
+  Class 6 (order 5): dim C_V(g) = 8506
+  Class 11 (order 11): dim C_V(g) = 3866
+  Class 19 (order 19): dim C_V(g) = 2236
+  Class 20 (order 19): dim C_V(g) = 2236
+  Class 21 (order 19): dim C_V(g) = 2236
+  Class 24 (order 31): dim C_V(g) = 1366
+  Class 25 (order 31): dim C_V(g) = 1366
+
+Character 17 (degree 51029):
+  Class 2 (order 2): dim C_V(g) = 25541
+  Class 3 (order 3): dim C_V(g) = 17009
+  Class 6 (order 5): dim C_V(g) = 10205
+  Class 11 (order 11): dim C_V(g) = 4639
+  Class 19 (order 19): dim C_V(g) = 2687
+  Class 20 (order 19): dim C_V(g) = 2687
+  Class 21 (order 19): dim C_V(g) = 2687
+  Class 24 (order 31): dim C_V(g) = 1649
+  Class 25 (order 31): dim C_V(g) = 1649
+
+Character 18 (degree 51029):
+  Class 2 (order 2): dim C_V(g) = 25541
+  Class 3 (order 3): dim C_V(g) = 17009
+  Class 6 (order 5): dim C_V(g) = 10205
+  Class 11 (order 11): dim C_V(g) = 4639
+  Class 19 (order 19): dim C_V(g) = 2687
+  Class 20 (order 19): dim C_V(g) = 2687
+  Class 21 (order 19): dim C_V(g) = 2687
+  Class 24 (order 31): dim C_V(g) = 1649
+  Class 25 (order 31): dim C_V(g) = 1649
+
+Character 19 (degree 58653):
+  Class 2 (order 2): dim C_V(g) = 29309
+  Class 3 (order 3): dim C_V(g) = 19557
+  Class 6 (order 5): dim C_V(g) = 11737
+  Class 11 (order 11): dim C_V(g) = 5333
+  Class 19 (order 19): dim C_V(g) = 3087
+  Class 20 (order 19): dim C_V(g) = 3087
+  Class 21 (order 19): dim C_V(g) = 3087
+  Class 24 (order 31): dim C_V(g) = 1893
+  Class 25 (order 31): dim C_V(g) = 1893
+
+Character 20 (degree 85064):
+  Class 2 (order 2): dim C_V(g) = 42504
+  Class 3 (order 3): dim C_V(g) = 28364
+  Class 6 (order 5): dim C_V(g) = 17012
+  Class 11 (order 11): dim C_V(g) = 7734
+  Class 19 (order 19): dim C_V(g) = 4478
+  Class 20 (order 19): dim C_V(g) = 4478
+  Class 21 (order 19): dim C_V(g) = 4478
+  Class 24 (order 31): dim C_V(g) = 2744
+  Class 25 (order 31): dim C_V(g) = 2744
+
+Character 21 (degree 114201):
+  Class 2 (order 2): dim C_V(g) = 57089
+  Class 3 (order 3): dim C_V(g) = 38061
+  Class 6 (order 5): dim C_V(g) = 22841
+  Class 11 (order 11): dim C_V(g) = 10381
+  Class 19 (order 19): dim C_V(g) = 6009
+  Class 20 (order 19): dim C_V(g) = 6009
+  Class 21 (order 19): dim C_V(g) = 6009
+  Class 24 (order 31): dim C_V(g) = 3681
+  Class 25 (order 31): dim C_V(g) = 3681
+
+Character 22 (degree 116963):
+  Class 2 (order 2): dim C_V(g) = 58499
+  Class 3 (order 3): dim C_V(g) = 38987
+  Class 6 (order 5): dim C_V(g) = 23399
+  Class 11 (order 11): dim C_V(g) = 10633
+  Class 19 (order 19): dim C_V(g) = 6155
+  Class 20 (order 19): dim C_V(g) = 6155
+  Class 21 (order 19): dim C_V(g) = 6155
+  Class 24 (order 31): dim C_V(g) = 3773
+  Class 25 (order 31): dim C_V(g) = 3773
+
+Character 23 (degree 143374):
+  Class 2 (order 2): dim C_V(g) = 71694
+  Class 3 (order 3): dim C_V(g) = 47794
+  Class 6 (order 5): dim C_V(g) = 28674
+  Class 11 (order 11): dim C_V(g) = 13034
+  Class 19 (order 19): dim C_V(g) = 7546
+  Class 20 (order 19): dim C_V(g) = 7546
+  Class 21 (order 19): dim C_V(g) = 7546
+  Class 24 (order 31): dim C_V(g) = 4624
+  Class 25 (order 31): dim C_V(g) = 4624
+
+Character 24 (degree 175616):
+  Class 2 (order 2): dim C_V(g) = 87808
+  Class 3 (order 3): dim C_V(g) = 58544
+  Class 6 (order 5): dim C_V(g) = 35120
+  Class 11 (order 11): dim C_V(g) = 15966
+  Class 19 (order 19): dim C_V(g) = 9242
+  Class 20 (order 19): dim C_V(g) = 9242
+  Class 21 (order 19): dim C_V(g) = 9242
+  Class 24 (order 31): dim C_V(g) = 5666
+  Class 25 (order 31): dim C_V(g) = 5666
+
+Character 25 (degree 175616):
+  Class 2 (order 2): dim C_V(g) = 87808
+  Class 3 (order 3): dim C_V(g) = 58544
+  Class 6 (order 5): dim C_V(g) = 35120
+  Class 11 (order 11): dim C_V(g) = 15966
+  Class 19 (order 19): dim C_V(g) = 9242
+  Class 20 (order 19): dim C_V(g) = 9242
+  Class 21 (order 19): dim C_V(g) = 9242
+  Class 24 (order 31): dim C_V(g) = 5666
+  Class 25 (order 31): dim C_V(g) = 5666
+
+Prime: 11
+----------------------------------------
+Character 2 (degree 10787):
+  Class 2 (order 2): dim C_V(g) = 5379
+  Class 3 (order 3): dim C_V(g) = 3605
+  Class 6 (order 5): dim C_V(g) = 2155
+  Class 8 (order 7): dim C_V(g) = 1547
+  Class 9 (order 7): dim C_V(g) = 1541
+  Class 21 (order 19): dim C_V(g) = 569
+  Class 22 (order 19): dim C_V(g) = 569
+  Class 23 (order 19): dim C_V(g) = 569
+  Class 28 (order 31): dim C_V(g) = 347
+  Class 29 (order 31): dim C_V(g) = 347
+
+Character 3 (degree 10943):
+  Class 2 (order 2): dim C_V(g) = 5503
+  Class 3 (order 3): dim C_V(g) = 3653
+  Class 6 (order 5): dim C_V(g) = 2187
+  Class 8 (order 7): dim C_V(g) = 1577
+  Class 9 (order 7): dim C_V(g) = 1565
+  Class 21 (order 19): dim C_V(g) = 575
+  Class 22 (order 19): dim C_V(g) = 575
+  Class 23 (order 19): dim C_V(g) = 575
+  Class 28 (order 31): dim C_V(g) = 353
+  Class 29 (order 31): dim C_V(g) = 353
+
+Character 4 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 6 (order 5): dim C_V(g) = 2676
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 9 (order 7): dim C_V(g) = 1910
+  Class 21 (order 19): dim C_V(g) = 704
+  Class 22 (order 19): dim C_V(g) = 704
+  Class 23 (order 19): dim C_V(g) = 704
+  Class 28 (order 31): dim C_V(g) = 431
+  Class 29 (order 31): dim C_V(g) = 431
+
+Character 5 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 6 (order 5): dim C_V(g) = 2676
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 9 (order 7): dim C_V(g) = 1910
+  Class 21 (order 19): dim C_V(g) = 704
+  Class 22 (order 19): dim C_V(g) = 704
+  Class 23 (order 19): dim C_V(g) = 704
+  Class 28 (order 31): dim C_V(g) = 431
+  Class 29 (order 31): dim C_V(g) = 431
+
+Character 6 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 21 (order 19): dim C_V(g) = 1364
+  Class 22 (order 19): dim C_V(g) = 1364
+  Class 23 (order 19): dim C_V(g) = 1364
+  Class 28 (order 31): dim C_V(g) = 836
+  Class 29 (order 31): dim C_V(g) = 836
+
+Character 7 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 21 (order 19): dim C_V(g) = 1364
+  Class 22 (order 19): dim C_V(g) = 1364
+  Class 23 (order 19): dim C_V(g) = 1364
+  Class 28 (order 31): dim C_V(g) = 836
+  Class 29 (order 31): dim C_V(g) = 836
+
+Character 8 (degree 26752):
+  Class 2 (order 2): dim C_V(g) = 13440
+  Class 3 (order 3): dim C_V(g) = 8932
+  Class 6 (order 5): dim C_V(g) = 5352
+  Class 8 (order 7): dim C_V(g) = 3820
+  Class 9 (order 7): dim C_V(g) = 3820
+  Class 21 (order 19): dim C_V(g) = 1408
+  Class 22 (order 19): dim C_V(g) = 1408
+  Class 23 (order 19): dim C_V(g) = 1408
+  Class 28 (order 31): dim C_V(g) = 862
+  Class 29 (order 31): dim C_V(g) = 862
+
+Character 9 (degree 26909):
+  Class 2 (order 2): dim C_V(g) = 13437
+  Class 3 (order 3): dim C_V(g) = 8981
+  Class 6 (order 5): dim C_V(g) = 5385
+  Class 8 (order 7): dim C_V(g) = 3851
+  Class 9 (order 7): dim C_V(g) = 3845
+  Class 21 (order 19): dim C_V(g) = 1415
+  Class 22 (order 19): dim C_V(g) = 1415
+  Class 23 (order 19): dim C_V(g) = 1415
+  Class 28 (order 31): dim C_V(g) = 869
+  Class 29 (order 31): dim C_V(g) = 869
+
+Character 10 (degree 31744):
+  Class 2 (order 2): dim C_V(g) = 15872
+  Class 3 (order 3): dim C_V(g) = 10576
+  Class 6 (order 5): dim C_V(g) = 6352
+  Class 8 (order 7): dim C_V(g) = 4528
+  Class 9 (order 7): dim C_V(g) = 4534
+  Class 21 (order 19): dim C_V(g) = 1672
+  Class 22 (order 19): dim C_V(g) = 1672
+  Class 23 (order 19): dim C_V(g) = 1672
+  Class 28 (order 31): dim C_V(g) = 1024
+  Class 29 (order 31): dim C_V(g) = 1024
+
+Character 11 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 21 (order 19): dim C_V(g) = 1705
+  Class 22 (order 19): dim C_V(g) = 1705
+  Class 23 (order 19): dim C_V(g) = 1705
+  Class 28 (order 31): dim C_V(g) = 1045
+  Class 29 (order 31): dim C_V(g) = 1045
+
+Character 12 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 21 (order 19): dim C_V(g) = 1705
+  Class 22 (order 19): dim C_V(g) = 1705
+  Class 23 (order 19): dim C_V(g) = 1705
+  Class 28 (order 31): dim C_V(g) = 1045
+  Class 29 (order 31): dim C_V(g) = 1045
+
+Character 13 (degree 42533):
+  Class 2 (order 2): dim C_V(g) = 21253
+  Class 3 (order 3): dim C_V(g) = 14183
+  Class 6 (order 5): dim C_V(g) = 8505
+  Class 8 (order 7): dim C_V(g) = 6077
+  Class 9 (order 7): dim C_V(g) = 6077
+  Class 21 (order 19): dim C_V(g) = 2237
+  Class 22 (order 19): dim C_V(g) = 2237
+  Class 23 (order 19): dim C_V(g) = 2237
+  Class 28 (order 31): dim C_V(g) = 1373
+  Class 29 (order 31): dim C_V(g) = 1373
+
+Character 14 (degree 52668):
+  Class 2 (order 2): dim C_V(g) = 26380
+  Class 3 (order 3): dim C_V(g) = 17568
+  Class 6 (order 5): dim C_V(g) = 10532
+  Class 8 (order 7): dim C_V(g) = 7518
+  Class 9 (order 7): dim C_V(g) = 7524
+  Class 21 (order 19): dim C_V(g) = 2772
+  Class 22 (order 19): dim C_V(g) = 2772
+  Class 23 (order 19): dim C_V(g) = 2772
+  Class 28 (order 31): dim C_V(g) = 1698
+  Class 29 (order 31): dim C_V(g) = 1698
+
+Character 15 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 21 (order 19): dim C_V(g) = 3069
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 28 (order 31): dim C_V(g) = 1881
+  Class 29 (order 31): dim C_V(g) = 1881
+
+Character 16 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 21 (order 19): dim C_V(g) = 3069
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 28 (order 31): dim C_V(g) = 1881
+  Class 29 (order 31): dim C_V(g) = 1881
+
+Character 17 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 21 (order 19): dim C_V(g) = 3069
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 28 (order 31): dim C_V(g) = 1881
+  Class 29 (order 31): dim C_V(g) = 1881
+
+Character 18 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 21 (order 19): dim C_V(g) = 3410
+  Class 22 (order 19): dim C_V(g) = 3410
+  Class 23 (order 19): dim C_V(g) = 3410
+  Class 28 (order 31): dim C_V(g) = 2090
+  Class 29 (order 31): dim C_V(g) = 2090
+
+Character 19 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 21 (order 19): dim C_V(g) = 3410
+  Class 22 (order 19): dim C_V(g) = 3410
+  Class 23 (order 19): dim C_V(g) = 3410
+  Class 28 (order 31): dim C_V(g) = 2090
+  Class 29 (order 31): dim C_V(g) = 2090
+
+Character 20 (degree 74277):
+  Class 2 (order 2): dim C_V(g) = 37125
+  Class 3 (order 3): dim C_V(g) = 24759
+  Class 6 (order 5): dim C_V(g) = 14857
+  Class 8 (order 7): dim C_V(g) = 10605
+  Class 9 (order 7): dim C_V(g) = 10611
+  Class 21 (order 19): dim C_V(g) = 3909
+  Class 22 (order 19): dim C_V(g) = 3909
+  Class 23 (order 19): dim C_V(g) = 3909
+  Class 28 (order 31): dim C_V(g) = 2397
+  Class 29 (order 31): dim C_V(g) = 2397
+
+Character 21 (degree 116963):
+  Class 2 (order 2): dim C_V(g) = 58499
+  Class 3 (order 3): dim C_V(g) = 38987
+  Class 6 (order 5): dim C_V(g) = 23399
+  Class 8 (order 7): dim C_V(g) = 16709
+  Class 9 (order 7): dim C_V(g) = 16709
+  Class 21 (order 19): dim C_V(g) = 6155
+  Class 22 (order 19): dim C_V(g) = 6155
+  Class 23 (order 19): dim C_V(g) = 6155
+  Class 28 (order 31): dim C_V(g) = 3773
+  Class 29 (order 31): dim C_V(g) = 3773
+
+Character 22 (degree 133083):
+  Class 2 (order 2): dim C_V(g) = 66555
+  Class 3 (order 3): dim C_V(g) = 44361
+  Class 6 (order 5): dim C_V(g) = 26615
+  Class 8 (order 7): dim C_V(g) = 19011
+  Class 9 (order 7): dim C_V(g) = 19011
+  Class 21 (order 19): dim C_V(g) = 7005
+  Class 22 (order 19): dim C_V(g) = 7005
+  Class 23 (order 19): dim C_V(g) = 7005
+  Class 28 (order 31): dim C_V(g) = 4293
+  Class 29 (order 31): dim C_V(g) = 4293
+
+Character 23 (degree 143374):
+  Class 2 (order 2): dim C_V(g) = 71694
+  Class 3 (order 3): dim C_V(g) = 47794
+  Class 6 (order 5): dim C_V(g) = 28674
+  Class 8 (order 7): dim C_V(g) = 20482
+  Class 9 (order 7): dim C_V(g) = 20482
+  Class 21 (order 19): dim C_V(g) = 7546
+  Class 22 (order 19): dim C_V(g) = 7546
+  Class 23 (order 19): dim C_V(g) = 7546
+  Class 28 (order 31): dim C_V(g) = 4624
+  Class 29 (order 31): dim C_V(g) = 4624
+
+Character 24 (degree 164827):
+  Class 2 (order 2): dim C_V(g) = 82427
+  Class 3 (order 3): dim C_V(g) = 54937
+  Class 6 (order 5): dim C_V(g) = 32967
+  Class 8 (order 7): dim C_V(g) = 23539
+  Class 9 (order 7): dim C_V(g) = 23545
+  Class 21 (order 19): dim C_V(g) = 8677
+  Class 22 (order 19): dim C_V(g) = 8677
+  Class 23 (order 19): dim C_V(g) = 8677
+  Class 28 (order 31): dim C_V(g) = 5317
+  Class 29 (order 31): dim C_V(g) = 5317
+
+Character 25 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 6 (order 5): dim C_V(g) = 33858
+  Class 8 (order 7): dim C_V(g) = 24180
+  Class 9 (order 7): dim C_V(g) = 24186
+  Class 21 (order 19): dim C_V(g) = 8910
+  Class 22 (order 19): dim C_V(g) = 8910
+  Class 23 (order 19): dim C_V(g) = 8910
+  Class 28 (order 31): dim C_V(g) = 5460
+  Class 29 (order 31): dim C_V(g) = 5460
+
+Character 26 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 6 (order 5): dim C_V(g) = 33858
+  Class 8 (order 7): dim C_V(g) = 24180
+  Class 9 (order 7): dim C_V(g) = 24186
+  Class 21 (order 19): dim C_V(g) = 8910
+  Class 22 (order 19): dim C_V(g) = 8910
+  Class 23 (order 19): dim C_V(g) = 8910
+  Class 28 (order 31): dim C_V(g) = 5460
+  Class 29 (order 31): dim C_V(g) = 5460
+
+Character 27 (degree 175616):
+  Class 2 (order 2): dim C_V(g) = 87808
+  Class 3 (order 3): dim C_V(g) = 58544
+  Class 6 (order 5): dim C_V(g) = 35120
+  Class 8 (order 7): dim C_V(g) = 25088
+  Class 9 (order 7): dim C_V(g) = 25088
+  Class 21 (order 19): dim C_V(g) = 9242
+  Class 22 (order 19): dim C_V(g) = 9242
+  Class 23 (order 19): dim C_V(g) = 9242
+  Class 28 (order 31): dim C_V(g) = 5666
+  Class 29 (order 31): dim C_V(g) = 5666
+
+Character 28 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 6 (order 5): dim C_V(g) = 46816
+  Class 8 (order 7): dim C_V(g) = 33446
+  Class 9 (order 7): dim C_V(g) = 33440
+  Class 21 (order 19): dim C_V(g) = 12320
+  Class 22 (order 19): dim C_V(g) = 12320
+  Class 23 (order 19): dim C_V(g) = 12320
+  Class 28 (order 31): dim C_V(g) = 7550
+  Class 29 (order 31): dim C_V(g) = 7550
+
+Character 29 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 6 (order 5): dim C_V(g) = 46816
+  Class 8 (order 7): dim C_V(g) = 33446
+  Class 9 (order 7): dim C_V(g) = 33440
+  Class 21 (order 19): dim C_V(g) = 12320
+  Class 22 (order 19): dim C_V(g) = 12320
+  Class 23 (order 19): dim C_V(g) = 12320
+  Class 28 (order 31): dim C_V(g) = 7550
+  Class 29 (order 31): dim C_V(g) = 7550
+
+Prime: 19
+----------------------------------------
+Character 2 (degree 10944):
+  Class 2 (order 2): dim C_V(g) = 5504
+  Class 3 (order 3): dim C_V(g) = 3654
+  Class 6 (order 5): dim C_V(g) = 2188
+  Class 8 (order 7): dim C_V(g) = 1578
+  Class 9 (order 7): dim C_V(g) = 1566
+  Class 13 (order 11): dim C_V(g) = 994
+  Class 26 (order 31): dim C_V(g) = 354
+  Class 27 (order 31): dim C_V(g) = 354
+
+Character 3 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 6 (order 5): dim C_V(g) = 2676
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 9 (order 7): dim C_V(g) = 1910
+  Class 13 (order 11): dim C_V(g) = 1216
+  Class 26 (order 31): dim C_V(g) = 431
+  Class 27 (order 31): dim C_V(g) = 431
+
+Character 4 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 6 (order 5): dim C_V(g) = 2676
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 9 (order 7): dim C_V(g) = 1910
+  Class 13 (order 11): dim C_V(g) = 1216
+  Class 26 (order 31): dim C_V(g) = 431
+  Class 27 (order 31): dim C_V(g) = 431
+
+Character 5 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 13 (order 11): dim C_V(g) = 2356
+  Class 26 (order 31): dim C_V(g) = 836
+  Class 27 (order 31): dim C_V(g) = 836
+
+Character 6 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 13 (order 11): dim C_V(g) = 2356
+  Class 26 (order 31): dim C_V(g) = 836
+  Class 27 (order 31): dim C_V(g) = 836
+
+Character 7 (degree 26752):
+  Class 2 (order 2): dim C_V(g) = 13440
+  Class 3 (order 3): dim C_V(g) = 8932
+  Class 6 (order 5): dim C_V(g) = 5352
+  Class 8 (order 7): dim C_V(g) = 3820
+  Class 9 (order 7): dim C_V(g) = 3820
+  Class 13 (order 11): dim C_V(g) = 2432
+  Class 26 (order 31): dim C_V(g) = 862
+  Class 27 (order 31): dim C_V(g) = 862
+
+Character 8 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 13 (order 11): dim C_V(g) = 2945
+  Class 26 (order 31): dim C_V(g) = 1045
+  Class 27 (order 31): dim C_V(g) = 1045
+
+Character 9 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 13 (order 11): dim C_V(g) = 2945
+  Class 26 (order 31): dim C_V(g) = 1045
+  Class 27 (order 31): dim C_V(g) = 1045
+
+Character 10 (degree 37696):
+  Class 2 (order 2): dim C_V(g) = 18816
+  Class 3 (order 3): dim C_V(g) = 12586
+  Class 6 (order 5): dim C_V(g) = 7540
+  Class 8 (order 7): dim C_V(g) = 5398
+  Class 9 (order 7): dim C_V(g) = 5386
+  Class 13 (order 11): dim C_V(g) = 3426
+  Class 26 (order 31): dim C_V(g) = 1216
+  Class 27 (order 31): dim C_V(g) = 1216
+
+Character 11 (degree 52668):
+  Class 2 (order 2): dim C_V(g) = 26380
+  Class 3 (order 3): dim C_V(g) = 17568
+  Class 6 (order 5): dim C_V(g) = 10532
+  Class 8 (order 7): dim C_V(g) = 7518
+  Class 9 (order 7): dim C_V(g) = 7524
+  Class 13 (order 11): dim C_V(g) = 4788
+  Class 26 (order 31): dim C_V(g) = 1698
+  Class 27 (order 31): dim C_V(g) = 1698
+
+Character 12 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 26 (order 31): dim C_V(g) = 1881
+  Class 27 (order 31): dim C_V(g) = 1881
+
+Character 13 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 26 (order 31): dim C_V(g) = 1881
+  Class 27 (order 31): dim C_V(g) = 1881
+
+Character 14 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 26 (order 31): dim C_V(g) = 1881
+  Class 27 (order 31): dim C_V(g) = 1881
+
+Character 15 (degree 58653):
+  Class 2 (order 2): dim C_V(g) = 29309
+  Class 3 (order 3): dim C_V(g) = 19557
+  Class 6 (order 5): dim C_V(g) = 11737
+  Class 8 (order 7): dim C_V(g) = 8379
+  Class 9 (order 7): dim C_V(g) = 8379
+  Class 13 (order 11): dim C_V(g) = 5333
+  Class 26 (order 31): dim C_V(g) = 1893
+  Class 27 (order 31): dim C_V(g) = 1893
+
+Character 16 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 13 (order 11): dim C_V(g) = 5890
+  Class 26 (order 31): dim C_V(g) = 2090
+  Class 27 (order 31): dim C_V(g) = 2090
+
+Character 17 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 13 (order 11): dim C_V(g) = 5890
+  Class 26 (order 31): dim C_V(g) = 2090
+  Class 27 (order 31): dim C_V(g) = 2090
+
+Character 18 (degree 85064):
+  Class 2 (order 2): dim C_V(g) = 42504
+  Class 3 (order 3): dim C_V(g) = 28364
+  Class 6 (order 5): dim C_V(g) = 17012
+  Class 8 (order 7): dim C_V(g) = 12152
+  Class 9 (order 7): dim C_V(g) = 12152
+  Class 13 (order 11): dim C_V(g) = 7734
+  Class 26 (order 31): dim C_V(g) = 2744
+  Class 27 (order 31): dim C_V(g) = 2744
+
+Character 19 (degree 85218):
+  Class 2 (order 2): dim C_V(g) = 42626
+  Class 3 (order 3): dim C_V(g) = 28410
+  Class 6 (order 5): dim C_V(g) = 17046
+  Class 8 (order 7): dim C_V(g) = 12180
+  Class 9 (order 7): dim C_V(g) = 12174
+  Class 13 (order 11): dim C_V(g) = 7748
+  Class 26 (order 31): dim C_V(g) = 2748
+  Class 27 (order 31): dim C_V(g) = 2748
+
+Character 20 (degree 90398):
+  Class 2 (order 2): dim C_V(g) = 45182
+  Class 3 (order 3): dim C_V(g) = 30134
+  Class 6 (order 5): dim C_V(g) = 18074
+  Class 8 (order 7): dim C_V(g) = 12908
+  Class 9 (order 7): dim C_V(g) = 12914
+  Class 13 (order 11): dim C_V(g) = 8218
+  Class 26 (order 31): dim C_V(g) = 2918
+  Class 27 (order 31): dim C_V(g) = 2918
+
+Character 21 (degree 90552):
+  Class 2 (order 2): dim C_V(g) = 45304
+  Class 3 (order 3): dim C_V(g) = 30180
+  Class 6 (order 5): dim C_V(g) = 18108
+  Class 8 (order 7): dim C_V(g) = 12936
+  Class 9 (order 7): dim C_V(g) = 12936
+  Class 13 (order 11): dim C_V(g) = 8232
+  Class 26 (order 31): dim C_V(g) = 2922
+  Class 27 (order 31): dim C_V(g) = 2922
+
+Character 22 (degree 116962):
+  Class 2 (order 2): dim C_V(g) = 58498
+  Class 3 (order 3): dim C_V(g) = 38986
+  Class 6 (order 5): dim C_V(g) = 23398
+  Class 8 (order 7): dim C_V(g) = 16708
+  Class 9 (order 7): dim C_V(g) = 16708
+  Class 13 (order 11): dim C_V(g) = 10632
+  Class 26 (order 31): dim C_V(g) = 3772
+  Class 27 (order 31): dim C_V(g) = 3772
+
+Character 23 (degree 143374):
+  Class 2 (order 2): dim C_V(g) = 71694
+  Class 3 (order 3): dim C_V(g) = 47794
+  Class 6 (order 5): dim C_V(g) = 28674
+  Class 8 (order 7): dim C_V(g) = 20482
+  Class 9 (order 7): dim C_V(g) = 20482
+  Class 13 (order 11): dim C_V(g) = 13034
+  Class 26 (order 31): dim C_V(g) = 4624
+  Class 27 (order 31): dim C_V(g) = 4624
+
+Character 24 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 6 (order 5): dim C_V(g) = 33858
+  Class 8 (order 7): dim C_V(g) = 24180
+  Class 9 (order 7): dim C_V(g) = 24186
+  Class 13 (order 11): dim C_V(g) = 15390
+  Class 26 (order 31): dim C_V(g) = 5460
+  Class 27 (order 31): dim C_V(g) = 5460
+
+Character 25 (degree 169290):
+  Class 2 (order 2): dim C_V(g) = 84690
+  Class 3 (order 3): dim C_V(g) = 56430
+  Class 6 (order 5): dim C_V(g) = 33858
+  Class 8 (order 7): dim C_V(g) = 24180
+  Class 9 (order 7): dim C_V(g) = 24186
+  Class 13 (order 11): dim C_V(g) = 15390
+  Class 26 (order 31): dim C_V(g) = 5460
+  Class 27 (order 31): dim C_V(g) = 5460
+
+Character 26 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 6 (order 5): dim C_V(g) = 46816
+  Class 8 (order 7): dim C_V(g) = 33446
+  Class 9 (order 7): dim C_V(g) = 33440
+  Class 13 (order 11): dim C_V(g) = 21280
+  Class 26 (order 31): dim C_V(g) = 7550
+  Class 27 (order 31): dim C_V(g) = 7550
+
+Character 27 (degree 234080):
+  Class 2 (order 2): dim C_V(g) = 116960
+  Class 3 (order 3): dim C_V(g) = 78020
+  Class 6 (order 5): dim C_V(g) = 46816
+  Class 8 (order 7): dim C_V(g) = 33446
+  Class 9 (order 7): dim C_V(g) = 33440
+  Class 13 (order 11): dim C_V(g) = 21280
+  Class 26 (order 31): dim C_V(g) = 7550
+  Class 27 (order 31): dim C_V(g) = 7550
+
+Prime: 31
+----------------------------------------
+Character 2 (degree 1869):
+  Class 2 (order 2): dim C_V(g) = 949
+  Class 3 (order 3): dim C_V(g) = 627
+  Class 6 (order 5): dim C_V(g) = 373
+  Class 8 (order 7): dim C_V(g) = 273
+  Class 9 (order 7): dim C_V(g) = 267
+  Class 13 (order 11): dim C_V(g) = 169
+  Class 22 (order 19): dim C_V(g) = 99
+  Class 23 (order 19): dim C_V(g) = 99
+  Class 24 (order 19): dim C_V(g) = 99
+
+Character 3 (degree 7050):
+  Class 2 (order 2): dim C_V(g) = 3538
+  Class 3 (order 3): dim C_V(g) = 2352
+  Class 6 (order 5): dim C_V(g) = 1414
+  Class 8 (order 7): dim C_V(g) = 1002
+  Class 9 (order 7): dim C_V(g) = 1008
+  Class 13 (order 11): dim C_V(g) = 640
+  Class 22 (order 19): dim C_V(g) = 372
+  Class 23 (order 19): dim C_V(g) = 372
+  Class 24 (order 19): dim C_V(g) = 372
+
+Character 4 (degree 9075):
+  Class 2 (order 2): dim C_V(g) = 4555
+  Class 3 (order 3): dim C_V(g) = 3027
+  Class 6 (order 5): dim C_V(g) = 1815
+  Class 8 (order 7): dim C_V(g) = 1305
+  Class 9 (order 7): dim C_V(g) = 1299
+  Class 13 (order 11): dim C_V(g) = 825
+  Class 22 (order 19): dim C_V(g) = 477
+  Class 23 (order 19): dim C_V(g) = 477
+  Class 24 (order 19): dim C_V(g) = 477
+
+Character 5 (degree 13376):
+  Class 2 (order 2): dim C_V(g) = 6656
+  Class 3 (order 3): dim C_V(g) = 4466
+  Class 6 (order 5): dim C_V(g) = 2676
+  Class 8 (order 7): dim C_V(g) = 1910
+  Class 9 (order 7): dim C_V(g) = 1910
+  Class 13 (order 11): dim C_V(g) = 1216
+  Class 22 (order 19): dim C_V(g) = 704
+  Class 23 (order 19): dim C_V(g) = 704
+  Class 24 (order 19): dim C_V(g) = 704
+
+Character 6 (degree 24883):
+  Class 2 (order 2): dim C_V(g) = 12491
+  Class 3 (order 3): dim C_V(g) = 8305
+  Class 6 (order 5): dim C_V(g) = 4979
+  Class 8 (order 7): dim C_V(g) = 3547
+  Class 9 (order 7): dim C_V(g) = 3553
+  Class 13 (order 11): dim C_V(g) = 2263
+  Class 22 (order 19): dim C_V(g) = 1309
+  Class 23 (order 19): dim C_V(g) = 1309
+  Class 24 (order 19): dim C_V(g) = 1309
+
+Character 7 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 13 (order 11): dim C_V(g) = 2356
+  Class 22 (order 19): dim C_V(g) = 1364
+  Class 23 (order 19): dim C_V(g) = 1364
+  Class 24 (order 19): dim C_V(g) = 1364
+
+Character 8 (degree 25916):
+  Class 2 (order 2): dim C_V(g) = 12940
+  Class 3 (order 3): dim C_V(g) = 8636
+  Class 6 (order 5): dim C_V(g) = 5184
+  Class 8 (order 7): dim C_V(g) = 3698
+  Class 9 (order 7): dim C_V(g) = 3704
+  Class 13 (order 11): dim C_V(g) = 2356
+  Class 22 (order 19): dim C_V(g) = 1364
+  Class 23 (order 19): dim C_V(g) = 1364
+  Class 24 (order 19): dim C_V(g) = 1364
+
+Character 9 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 13 (order 11): dim C_V(g) = 2945
+  Class 22 (order 19): dim C_V(g) = 1705
+  Class 23 (order 19): dim C_V(g) = 1705
+  Class 24 (order 19): dim C_V(g) = 1705
+
+Character 10 (degree 32395):
+  Class 2 (order 2): dim C_V(g) = 16235
+  Class 3 (order 3): dim C_V(g) = 10795
+  Class 6 (order 5): dim C_V(g) = 6479
+  Class 8 (order 7): dim C_V(g) = 4633
+  Class 9 (order 7): dim C_V(g) = 4627
+  Class 13 (order 11): dim C_V(g) = 2945
+  Class 22 (order 19): dim C_V(g) = 1705
+  Class 23 (order 19): dim C_V(g) = 1705
+  Class 24 (order 19): dim C_V(g) = 1705
+
+Character 11 (degree 37696):
+  Class 2 (order 2): dim C_V(g) = 18816
+  Class 3 (order 3): dim C_V(g) = 12586
+  Class 6 (order 5): dim C_V(g) = 7540
+  Class 8 (order 7): dim C_V(g) = 5398
+  Class 9 (order 7): dim C_V(g) = 5386
+  Class 13 (order 11): dim C_V(g) = 3426
+  Class 22 (order 19): dim C_V(g) = 1984
+  Class 23 (order 19): dim C_V(g) = 1984
+  Class 24 (order 19): dim C_V(g) = 1984
+
+Character 12 (degree 51603):
+  Class 2 (order 2): dim C_V(g) = 25771
+  Class 3 (order 3): dim C_V(g) = 17205
+  Class 6 (order 5): dim C_V(g) = 10323
+  Class 8 (order 7): dim C_V(g) = 7377
+  Class 9 (order 7): dim C_V(g) = 7371
+  Class 13 (order 11): dim C_V(g) = 4693
+  Class 22 (order 19): dim C_V(g) = 2715
+  Class 23 (order 19): dim C_V(g) = 2715
+  Class 24 (order 19): dim C_V(g) = 2715
+
+Character 13 (degree 52667):
+  Class 2 (order 2): dim C_V(g) = 26379
+  Class 3 (order 3): dim C_V(g) = 17567
+  Class 6 (order 5): dim C_V(g) = 10531
+  Class 8 (order 7): dim C_V(g) = 7517
+  Class 9 (order 7): dim C_V(g) = 7523
+  Class 13 (order 11): dim C_V(g) = 4787
+  Class 22 (order 19): dim C_V(g) = 2771
+  Class 23 (order 19): dim C_V(g) = 2771
+  Class 24 (order 19): dim C_V(g) = 2771
+
+Character 14 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 24 (order 19): dim C_V(g) = 3069
+
+Character 15 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 24 (order 19): dim C_V(g) = 3069
+
+Character 16 (degree 58311):
+  Class 2 (order 2): dim C_V(g) = 29191
+  Class 3 (order 3): dim C_V(g) = 19431
+  Class 6 (order 5): dim C_V(g) = 11663
+  Class 8 (order 7): dim C_V(g) = 8331
+  Class 9 (order 7): dim C_V(g) = 8331
+  Class 13 (order 11): dim C_V(g) = 5301
+  Class 22 (order 19): dim C_V(g) = 3069
+  Class 23 (order 19): dim C_V(g) = 3069
+  Class 24 (order 19): dim C_V(g) = 3069
+
+Character 17 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 13 (order 11): dim C_V(g) = 5890
+  Class 22 (order 19): dim C_V(g) = 3410
+  Class 23 (order 19): dim C_V(g) = 3410
+  Class 24 (order 19): dim C_V(g) = 3410
+
+Character 18 (degree 64790):
+  Class 2 (order 2): dim C_V(g) = 32430
+  Class 3 (order 3): dim C_V(g) = 21590
+  Class 6 (order 5): dim C_V(g) = 12958
+  Class 8 (order 7): dim C_V(g) = 9266
+  Class 9 (order 7): dim C_V(g) = 9254
+  Class 13 (order 11): dim C_V(g) = 5890
+  Class 22 (order 19): dim C_V(g) = 3410
+  Class 23 (order 19): dim C_V(g) = 3410
+  Class 24 (order 19): dim C_V(g) = 3410
+
+Character 19 (degree 73061):
+  Class 2 (order 2): dim C_V(g) = 36541
+  Class 3 (order 3): dim C_V(g) = 24353
+  Class 6 (order 5): dim C_V(g) = 14613
+  Class 8 (order 7): dim C_V(g) = 10439
+  Class 9 (order 7): dim C_V(g) = 10439
+  Class 13 (order 11): dim C_V(g) = 6641
+  Class 22 (order 19): dim C_V(g) = 3845
+  Class 23 (order 19): dim C_V(g) = 3845
+  Class 24 (order 19): dim C_V(g) = 3845
+
+Character 20 (degree 85064):
+  Class 2 (order 2): dim C_V(g) = 42504
+  Class 3 (order 3): dim C_V(g) = 28364
+  Class 6 (order 5): dim C_V(g) = 17012
+  Class 8 (order 7): dim C_V(g) = 12152
+  Class 9 (order 7): dim C_V(g) = 12152
+  Class 13 (order 11): dim C_V(g) = 7734
+  Class 22 (order 19): dim C_V(g) = 4478
+  Class 23 (order 19): dim C_V(g) = 4478
+  Class 24 (order 19): dim C_V(g) = 4478
+
+Character 21 (degree 96229):
+  Class 2 (order 2): dim C_V(g) = 48149
+  Class 3 (order 3): dim C_V(g) = 32077
+  Class 6 (order 5): dim C_V(g) = 19245
+  Class 8 (order 7): dim C_V(g) = 13741
+  Class 9 (order 7): dim C_V(g) = 13747
+  Class 13 (order 11): dim C_V(g) = 8749
+  Class 22 (order 19): dim C_V(g) = 5065
+  Class 23 (order 19): dim C_V(g) = 5065
+  Class 24 (order 19): dim C_V(g) = 5065
+
+Character 22 (degree 111131):
+  Class 2 (order 2): dim C_V(g) = 55531
+  Class 3 (order 3): dim C_V(g) = 37043
+  Class 6 (order 5): dim C_V(g) = 22227
+  Class 8 (order 7): dim C_V(g) = 15875
+  Class 9 (order 7): dim C_V(g) = 15875
+  Class 13 (order 11): dim C_V(g) = 10101
+  Class 22 (order 19): dim C_V(g) = 5849
+  Class 23 (order 19): dim C_V(g) = 5849
+  Class 24 (order 19): dim C_V(g) = 5849
+
+Character 23 (degree 116963):
+  Class 2 (order 2): dim C_V(g) = 58499
+  Class 3 (order 3): dim C_V(g) = 38987
+  Class 6 (order 5): dim C_V(g) = 23399
+  Class 8 (order 7): dim C_V(g) = 16709
+  Class 9 (order 7): dim C_V(g) = 16709
+  Class 13 (order 11): dim C_V(g) = 10633
+  Class 22 (order 19): dim C_V(g) = 6155
+  Class 23 (order 19): dim C_V(g) = 6155
+  Class 24 (order 19): dim C_V(g) = 6155
+
+Character 24 (degree 122949):
+  Class 2 (order 2): dim C_V(g) = 61429
+  Class 3 (order 3): dim C_V(g) = 40977
+  Class 6 (order 5): dim C_V(g) = 24589
+  Class 8 (order 7): dim C_V(g) = 17571
+  Class 9 (order 7): dim C_V(g) = 17565
+  Class 13 (order 11): dim C_V(g) = 11179
+  Class 22 (order 19): dim C_V(g) = 6471
+  Class 23 (order 19): dim C_V(g) = 6471
+  Class 24 (order 19): dim C_V(g) = 6471
+
+Character 25 (degree 134299):
+  Class 2 (order 2): dim C_V(g) = 67139
+  Class 3 (order 3): dim C_V(g) = 44767
+  Class 6 (order 5): dim C_V(g) = 26859
+  Class 8 (order 7): dim C_V(g) = 19177
+  Class 9 (order 7): dim C_V(g) = 19183
+  Class 13 (order 11): dim C_V(g) = 12209
+  Class 22 (order 19): dim C_V(g) = 7069
+  Class 23 (order 19): dim C_V(g) = 7069
+  Class 24 (order 19): dim C_V(g) = 7069
+
+Character 26 (degree 162240):
+  Class 2 (order 2): dim C_V(g) = 81152
+  Class 3 (order 3): dim C_V(g) = 54078
+  Class 6 (order 5): dim C_V(g) = 32444
+  Class 8 (order 7): dim C_V(g) = 23178
+  Class 9 (order 7): dim C_V(g) = 23178
+  Class 13 (order 11): dim C_V(g) = 14750
+  Class 22 (order 19): dim C_V(g) = 8538
+  Class 23 (order 19): dim C_V(g) = 8538
+  Class 24 (order 19): dim C_V(g) = 8538
+
+Character 27 (degree 175770):
+  Class 2 (order 2): dim C_V(g) = 87930
+  Class 3 (order 3): dim C_V(g) = 58590
+  Class 6 (order 5): dim C_V(g) = 35154
+  Class 8 (order 7): dim C_V(g) = 25116
+  Class 9 (order 7): dim C_V(g) = 25110
+  Class 13 (order 11): dim C_V(g) = 15980
+  Class 22 (order 19): dim C_V(g) = 9252
+  Class 23 (order 19): dim C_V(g) = 9252
+  Class 24 (order 19): dim C_V(g) = 9252
+
+Character 28 (degree 182477):
+  Class 2 (order 2): dim C_V(g) = 91189
+  Class 3 (order 3): dim C_V(g) = 60815
+  Class 6 (order 5): dim C_V(g) = 36493
+  Class 8 (order 7): dim C_V(g) = 26069
+  Class 9 (order 7): dim C_V(g) = 26069
+  Class 13 (order 11): dim C_V(g) = 16587
+  Class 22 (order 19): dim C_V(g) = 9605
+  Class 23 (order 19): dim C_V(g) = 9605
+  Class 24 (order 19): dim C_V(g) = 9605
+
+
+
+Group: M22
+----------------------------------------
+Prime: 3
+----------------------------------------
+Character 2 (degree 21):
+  Class 2 (order 2): dim C_V(g) = 13
+  Class 5 (order 5): dim C_V(g) = 5
+  Class 6 (order 7): dim C_V(g) = 3
+  Class 7 (order 7): dim C_V(g) = 3
+  Class 9 (order 11): dim C_V(g) = 1
+  Class 10 (order 11): dim C_V(g) = 1
+
+Character 3 (degree 45):
+  Class 2 (order 2): dim C_V(g) = 21
+  Class 5 (order 5): dim C_V(g) = 9
+  Class 6 (order 7): dim C_V(g) = 6
+  Class 7 (order 7): dim C_V(g) = 6
+  Class 9 (order 11): dim C_V(g) = 5
+  Class 10 (order 11): dim C_V(g) = 5
+
+Character 4 (degree 45):
+  Class 2 (order 2): dim C_V(g) = 21
+  Class 5 (order 5): dim C_V(g) = 9
+  Class 6 (order 7): dim C_V(g) = 6
+  Class 7 (order 7): dim C_V(g) = 6
+  Class 9 (order 11): dim C_V(g) = 5
+  Class 10 (order 11): dim C_V(g) = 5
+
+Character 5 (degree 49):
+  Class 2 (order 2): dim C_V(g) = 25
+  Class 5 (order 5): dim C_V(g) = 9
+  Class 6 (order 7): dim C_V(g) = 7
+  Class 7 (order 7): dim C_V(g) = 7
+  Class 9 (order 11): dim C_V(g) = 4
+  Class 10 (order 11): dim C_V(g) = 4
+
+Character 6 (degree 49):
+  Class 2 (order 2): dim C_V(g) = 25
+  Class 5 (order 5): dim C_V(g) = 9
+  Class 6 (order 7): dim C_V(g) = 7
+  Class 7 (order 7): dim C_V(g) = 7
+  Class 9 (order 11): dim C_V(g) = 4
+  Class 10 (order 11): dim C_V(g) = 4
+
+Character 7 (degree 55):
+  Class 2 (order 2): dim C_V(g) = 31
+  Class 5 (order 5): dim C_V(g) = 11
+  Class 6 (order 7): dim C_V(g) = 7
+  Class 7 (order 7): dim C_V(g) = 7
+  Class 9 (order 11): dim C_V(g) = 5
+  Class 10 (order 11): dim C_V(g) = 5
+
+Character 8 (degree 99):
+  Class 2 (order 2): dim C_V(g) = 51
+  Class 5 (order 5): dim C_V(g) = 19
+  Class 6 (order 7): dim C_V(g) = 15
+  Class 7 (order 7): dim C_V(g) = 15
+  Class 9 (order 11): dim C_V(g) = 9
+  Class 10 (order 11): dim C_V(g) = 9
+
+Character 9 (degree 210):
+  Class 2 (order 2): dim C_V(g) = 106
+  Class 5 (order 5): dim C_V(g) = 42
+  Class 6 (order 7): dim C_V(g) = 30
+  Class 7 (order 7): dim C_V(g) = 30
+  Class 9 (order 11): dim C_V(g) = 20
+  Class 10 (order 11): dim C_V(g) = 20
+
+Character 10 (degree 231):
+  Class 2 (order 2): dim C_V(g) = 111
+  Class 5 (order 5): dim C_V(g) = 47
+  Class 6 (order 7): dim C_V(g) = 33
+  Class 7 (order 7): dim C_V(g) = 33
+  Class 9 (order 11): dim C_V(g) = 21
+  Class 10 (order 11): dim C_V(g) = 21
+
+Prime: 5
+----------------------------------------
+Character 2 (degree 21):
+  Class 2 (order 2): dim C_V(g) = 13
+  Class 3 (order 3): dim C_V(g) = 9
+  Class 7 (order 7): dim C_V(g) = 3
+  Class 8 (order 7): dim C_V(g) = 3
+  Class 10 (order 11): dim C_V(g) = 1
+  Class 11 (order 11): dim C_V(g) = 1
+
+Character 3 (degree 45):
+  Class 2 (order 2): dim C_V(g) = 21
+  Class 3 (order 3): dim C_V(g) = 15
+  Class 7 (order 7): dim C_V(g) = 6
+  Class 8 (order 7): dim C_V(g) = 6
+  Class 10 (order 11): dim C_V(g) = 5
+  Class 11 (order 11): dim C_V(g) = 5
+
+Character 4 (degree 45):
+  Class 2 (order 2): dim C_V(g) = 21
+  Class 3 (order 3): dim C_V(g) = 15
+  Class 7 (order 7): dim C_V(g) = 6
+  Class 8 (order 7): dim C_V(g) = 6
+  Class 10 (order 11): dim C_V(g) = 5
+  Class 11 (order 11): dim C_V(g) = 5
+
+Character 5 (degree 55):
+  Class 2 (order 2): dim C_V(g) = 31
+  Class 3 (order 3): dim C_V(g) = 19
+  Class 7 (order 7): dim C_V(g) = 7
+  Class 8 (order 7): dim C_V(g) = 7
+  Class 10 (order 11): dim C_V(g) = 5
+  Class 11 (order 11): dim C_V(g) = 5
+
+Character 6 (degree 98):
+  Class 2 (order 2): dim C_V(g) = 50
+  Class 3 (order 3): dim C_V(g) = 32
+  Class 7 (order 7): dim C_V(g) = 14
+  Class 8 (order 7): dim C_V(g) = 14
+  Class 10 (order 11): dim C_V(g) = 8
+  Class 11 (order 11): dim C_V(g) = 8
+
+Character 7 (degree 133):
+  Class 2 (order 2): dim C_V(g) = 69
+  Class 3 (order 3): dim C_V(g) = 43
+  Class 7 (order 7): dim C_V(g) = 19
+  Class 8 (order 7): dim C_V(g) = 19
+  Class 10 (order 11): dim C_V(g) = 13
+  Class 11 (order 11): dim C_V(g) = 13
+
+Character 8 (degree 210):
+  Class 2 (order 2): dim C_V(g) = 106
+  Class 3 (order 3): dim C_V(g) = 72
+  Class 7 (order 7): dim C_V(g) = 30
+  Class 8 (order 7): dim C_V(g) = 30
+  Class 10 (order 11): dim C_V(g) = 20
+  Class 11 (order 11): dim C_V(g) = 20
+
+Character 9 (degree 280):
+  Class 2 (order 2): dim C_V(g) = 136
+  Class 3 (order 3): dim C_V(g) = 94
+  Class 7 (order 7): dim C_V(g) = 40
+  Class 8 (order 7): dim C_V(g) = 40
+  Class 10 (order 11): dim C_V(g) = 25
+  Class 11 (order 11): dim C_V(g) = 25
+
+Character 10 (degree 280):
+  Class 2 (order 2): dim C_V(g) = 136
+  Class 3 (order 3): dim C_V(g) = 94
+  Class 7 (order 7): dim C_V(g) = 40
+  Class 8 (order 7): dim C_V(g) = 40
+  Class 10 (order 11): dim C_V(g) = 25
+  Class 11 (order 11): dim C_V(g) = 25
+
+Character 11 (degree 385):
+  Class 2 (order 2): dim C_V(g) = 193
+  Class 3 (order 3): dim C_V(g) = 127
+  Class 7 (order 7): dim C_V(g) = 55
+  Class 8 (order 7): dim C_V(g) = 55
+  Class 10 (order 11): dim C_V(g) = 35
+  Class 11 (order 11): dim C_V(g) = 35
+
+Prime: 7
+----------------------------------------
+Character 2 (degree 21):
+  Class 2 (order 2): dim C_V(g) = 13
+  Class 3 (order 3): dim C_V(g) = 9
+  Class 6 (order 5): dim C_V(g) = 5
+  Class 9 (order 11): dim C_V(g) = 1
+  Class 10 (order 11): dim C_V(g) = 1
+
+Character 3 (degree 45):
+  Class 2 (order 2): dim C_V(g) = 21
+  Class 3 (order 3): dim C_V(g) = 15
+  Class 6 (order 5): dim C_V(g) = 9
+  Class 9 (order 11): dim C_V(g) = 5
+  Class 10 (order 11): dim C_V(g) = 5
+
+Character 4 (degree 54):
+  Class 2 (order 2): dim C_V(g) = 30
+  Class 3 (order 3): dim C_V(g) = 18
+  Class 6 (order 5): dim C_V(g) = 10
+  Class 9 (order 11): dim C_V(g) = 4
+  Class 10 (order 11): dim C_V(g) = 4
+
+Character 5 (degree 154):
+  Class 2 (order 2): dim C_V(g) = 82
+  Class 3 (order 3): dim C_V(g) = 52
+  Class 6 (order 5): dim C_V(g) = 30
+  Class 9 (order 11): dim C_V(g) = 14
+  Class 10 (order 11): dim C_V(g) = 14
+
+Character 6 (degree 210):
+  Class 2 (order 2): dim C_V(g) = 106
+  Class 3 (order 3): dim C_V(g) = 72
+  Class 6 (order 5): dim C_V(g) = 42
+  Class 9 (order 11): dim C_V(g) = 20
+  Class 10 (order 11): dim C_V(g) = 20
+
+Character 7 (degree 231):
+  Class 2 (order 2): dim C_V(g) = 119
+  Class 3 (order 3): dim C_V(g) = 75
+  Class 6 (order 5): dim C_V(g) = 47
+  Class 9 (order 11): dim C_V(g) = 21
+  Class 10 (order 11): dim C_V(g) = 21
+
+Character 8 (degree 280):
+  Class 2 (order 2): dim C_V(g) = 136
+  Class 3 (order 3): dim C_V(g) = 94
+  Class 6 (order 5): dim C_V(g) = 56
+  Class 9 (order 11): dim C_V(g) = 25
+  Class 10 (order 11): dim C_V(g) = 25
+
+Character 9 (degree 280):
+  Class 2 (order 2): dim C_V(g) = 136
+  Class 3 (order 3): dim C_V(g) = 94
+  Class 6 (order 5): dim C_V(g) = 56
+  Class 9 (order 11): dim C_V(g) = 25
+  Class 10 (order 11): dim C_V(g) = 25
+
+Character 10 (degree 385):
+  Class 2 (order 2): dim C_V(g) = 193
+  Class 3 (order 3): dim C_V(g) = 127
+  Class 6 (order 5): dim C_V(g) = 77
+  Class 9 (order 11): dim C_V(g) = 35
+  Class 10 (order 11): dim C_V(g) = 35
+
+
+
+Group: M22.2
+----------------------------------------
+Prime: 2
+----------------------------------------
+Character 2 (degree 10):
+  Class 2 (order 3): dim C_V(g) = 4
+  Class 3 (order 5): dim C_V(g) = 2
+  Class 4 (order 7): dim C_V(g) = 1
+  Class 5 (order 7): dim C_V(g) = 1
+  Class 6 (order 11): dim C_V(g) = 0
+
+Character 3 (degree 10):
+  Class 2 (order 3): dim C_V(g) = 4
+  Class 3 (order 5): dim C_V(g) = 2
+  Class 4 (order 7): dim C_V(g) = 1
+  Class 5 (order 7): dim C_V(g) = 1
+  Class 6 (order 11): dim C_V(g) = 0
+
+Character 4 (degree 34):
+  Class 2 (order 3): dim C_V(g) = 10
+  Class 3 (order 5): dim C_V(g) = 6
+  Class 4 (order 7): dim C_V(g) = 4
+  Class 5 (order 7): dim C_V(g) = 4
+  Class 6 (order 11): dim C_V(g) = 4
+
+Character 5 (degree 140):
+  Class 2 (order 3): dim C_V(g) = 44
+  Class 3 (order 5): dim C_V(g) = 28
+  Class 4 (order 7): dim C_V(g) = 20
+  Class 5 (order 7): dim C_V(g) = 20
+  Class 6 (order 11): dim C_V(g) = 10
+
+Character 6 (degree 98):
+  Class 2 (order 3): dim C_V(g) = 32
+  Class 3 (order 5): dim C_V(g) = 18
+  Class 4 (order 7): dim C_V(g) = 14
+  Class 5 (order 7): dim C_V(g) = 14
+  Class 6 (order 11): dim C_V(g) = 8
+
+
+
+Group: Fi23
+----------------------------------------
+Prime: 3
+----------------------------------------
+Character 2 (degree 253):
+  Class 2 (order 2): dim C_V(g) = 77
+  Class 3 (order 2): dim C_V(g) = 141
+  Class 4 (order 2): dim C_V(g) = 125
+  Class 9 (order 5): dim C_V(g) = 53
+  Class 10 (order 7): dim C_V(g) = 37
+  Class 17 (order 11): dim C_V(g) = 23
+  Class 18 (order 13): dim C_V(g) = 19
+  Class 19 (order 13): dim C_V(g) = 19
+  Class 24 (order 17): dim C_V(g) = 13
+  Class 30 (order 23): dim C_V(g) = 11
+  Class 31 (order 23): dim C_V(g) = 11
+
+Character 3 (degree 528):
+  Class 2 (order 2): dim C_V(g) = 352
+  Class 3 (order 2): dim C_V(g) = 288
+  Class 4 (order 2): dim C_V(g) = 272
+  Class 9 (order 5): dim C_V(g) = 108
+  Class 10 (order 7): dim C_V(g) = 78
+  Class 17 (order 11): dim C_V(g) = 48
+  Class 18 (order 13): dim C_V(g) = 42
+  Class 19 (order 13): dim C_V(g) = 42
+  Class 24 (order 17): dim C_V(g) = 32
+  Class 30 (order 23): dim C_V(g) = 22
+  Class 31 (order 23): dim C_V(g) = 22
+
+Character 4 (degree 2806):
+  Class 2 (order 2): dim C_V(g) = 1078
+  Class 3 (order 2): dim C_V(g) = 1462
+  Class 4 (order 2): dim C_V(g) = 1398
+  Class 9 (order 5): dim C_V(g) = 566
+  Class 10 (order 7): dim C_V(g) = 400
+  Class 17 (order 11): dim C_V(g) = 256
+  Class 18 (order 13): dim C_V(g) = 214
+  Class 19 (order 13): dim C_V(g) = 214
+  Class 24 (order 17): dim C_V(g) = 166
+  Class 30 (order 23): dim C_V(g) = 122
+  Class 31 (order 23): dim C_V(g) = 122
+
+Character 5 (degree 4830):
+  Class 2 (order 2): dim C_V(g) = 2926
+  Class 3 (order 2): dim C_V(g) = 2478
+  Class 4 (order 2): dim C_V(g) = 2398
+  Class 9 (order 5): dim C_V(g) = 970
+  Class 10 (order 7): dim C_V(g) = 690
+  Class 17 (order 11): dim C_V(g) = 440
+  Class 18 (order 13): dim C_V(g) = 372
+  Class 19 (order 13): dim C_V(g) = 372
+  Class 24 (order 17): dim C_V(g) = 286
+  Class 30 (order 23): dim C_V(g) = 210
+  Class 31 (order 23): dim C_V(g) = 210
+
+Character 6 (degree 13122):
+  Class 2 (order 2): dim C_V(g) = 7474
+  Class 3 (order 2): dim C_V(g) = 6642
+  Class 4 (order 2): dim C_V(g) = 6594
+  Class 9 (order 5): dim C_V(g) = 2622
+  Class 10 (order 7): dim C_V(g) = 1872
+  Class 17 (order 11): dim C_V(g) = 1192
+  Class 18 (order 13): dim C_V(g) = 1008
+  Class 19 (order 13): dim C_V(g) = 1008
+  Class 24 (order 17): dim C_V(g) = 770
+  Class 30 (order 23): dim C_V(g) = 571
+  Class 31 (order 23): dim C_V(g) = 571
+
+Character 7 (degree 13122):
+  Class 2 (order 2): dim C_V(g) = 7474
+  Class 3 (order 2): dim C_V(g) = 6642
+  Class 4 (order 2): dim C_V(g) = 6594
+  Class 9 (order 5): dim C_V(g) = 2622
+  Class 10 (order 7): dim C_V(g) = 1872
+  Class 17 (order 11): dim C_V(g) = 1192
+  Class 18 (order 13): dim C_V(g) = 1008
+  Class 19 (order 13): dim C_V(g) = 1008
+  Class 24 (order 17): dim C_V(g) = 770
+  Class 30 (order 23): dim C_V(g) = 571
+  Class 31 (order 23): dim C_V(g) = 571
+
+Character 8 (degree 20470):
+  Class 2 (order 2): dim C_V(g) = 8646
+  Class 3 (order 2): dim C_V(g) = 10374
+  Class 4 (order 2): dim C_V(g) = 10230
+  Class 9 (order 5): dim C_V(g) = 4090
+  Class 10 (order 7): dim C_V(g) = 2926
+  Class 17 (order 11): dim C_V(g) = 1860
+  Class 18 (order 13): dim C_V(g) = 1576
+  Class 19 (order 13): dim C_V(g) = 1576
+  Class 24 (order 17): dim C_V(g) = 1206
+  Class 30 (order 23): dim C_V(g) = 890
+  Class 31 (order 23): dim C_V(g) = 890
+
+Character 9 (degree 27048):
+  Class 2 (order 2): dim C_V(g) = 15400
+  Class 3 (order 2): dim C_V(g) = 13608
+  Class 4 (order 2): dim C_V(g) = 13480
+  Class 9 (order 5): dim C_V(g) = 5408
+  Class 10 (order 7): dim C_V(g) = 3864
+  Class 17 (order 11): dim C_V(g) = 2458
+  Class 18 (order 13): dim C_V(g) = 2082
+  Class 19 (order 13): dim C_V(g) = 2082
+  Class 24 (order 17): dim C_V(g) = 1592
+  Class 30 (order 23): dim C_V(g) = 1176
+  Class 31 (order 23): dim C_V(g) = 1176
+
+Character 10 (degree 79718):
+  Class 2 (order 2): dim C_V(g) = 43318
+  Class 3 (order 2): dim C_V(g) = 40054
+  Class 4 (order 2): dim C_V(g) = 39910
+  Class 9 (order 5): dim C_V(g) = 15938
+  Class 10 (order 7): dim C_V(g) = 11390
+  Class 17 (order 11): dim C_V(g) = 7248
+  Class 18 (order 13): dim C_V(g) = 6134
+  Class 19 (order 13): dim C_V(g) = 6134
+  Class 24 (order 17): dim C_V(g) = 4694
+  Class 30 (order 23): dim C_V(g) = 3466
+  Class 31 (order 23): dim C_V(g) = 3466
+
+Character 11 (degree 86273):
+  Class 2 (order 2): dim C_V(g) = 38401
+  Class 3 (order 2): dim C_V(g) = 43393
+  Class 4 (order 2): dim C_V(g) = 43137
+  Class 9 (order 5): dim C_V(g) = 17253
+  Class 10 (order 7): dim C_V(g) = 12323
+  Class 17 (order 11): dim C_V(g) = 7843
+  Class 18 (order 13): dim C_V(g) = 6635
+  Class 19 (order 13): dim C_V(g) = 6635
+  Class 24 (order 17): dim C_V(g) = 5073
+  Class 30 (order 23): dim C_V(g) = 3751
+  Class 31 (order 23): dim C_V(g) = 3751
+
+Character 12 (degree 134298):
+  Class 2 (order 2): dim C_V(g) = 74250
+  Class 3 (order 2): dim C_V(g) = 67530
+  Class 4 (order 2): dim C_V(g) = 67098
+  Class 9 (order 5): dim C_V(g) = 26858
+  Class 10 (order 7): dim C_V(g) = 19188
+  Class 17 (order 11): dim C_V(g) = 12208
+  Class 18 (order 13): dim C_V(g) = 10332
+  Class 19 (order 13): dim C_V(g) = 10332
+  Class 24 (order 17): dim C_V(g) = 7898
+  Class 30 (order 23): dim C_V(g) = 5840
+  Class 31 (order 23): dim C_V(g) = 5840
+
+Character 13 (degree 253230):
+  Class 2 (order 2): dim C_V(g) = 117326
+  Class 3 (order 2): dim C_V(g) = 126798
+  Class 4 (order 2): dim C_V(g) = 126638
+  Class 9 (order 5): dim C_V(g) = 50650
+  Class 10 (order 7): dim C_V(g) = 36174
+  Class 17 (order 11): dim C_V(g) = 23020
+  Class 18 (order 13): dim C_V(g) = 19482
+  Class 19 (order 13): dim C_V(g) = 19482
+  Class 24 (order 17): dim C_V(g) = 14894
+  Class 30 (order 23): dim C_V(g) = 11010
+  Class 31 (order 23): dim C_V(g) = 11010
+
+Character 14 (degree 362342):
+  Class 2 (order 2): dim C_V(g) = 171270
+  Class 3 (order 2): dim C_V(g) = 180998
+  Class 4 (order 2): dim C_V(g) = 181222
+  Class 9 (order 5): dim C_V(g) = 72462
+  Class 10 (order 7): dim C_V(g) = 51764
+  Class 17 (order 11): dim C_V(g) = 32942
+  Class 18 (order 13): dim C_V(g) = 27872
+  Class 19 (order 13): dim C_V(g) = 27872
+  Class 24 (order 17): dim C_V(g) = 21318
+  Class 30 (order 23): dim C_V(g) = 15754
+  Class 31 (order 23): dim C_V(g) = 15754
+
+Character 15 (degree 538407):
+  Class 2 (order 2): dim C_V(g) = 291303
+  Class 3 (order 2): dim C_V(g) = 270183
+  Class 4 (order 2): dim C_V(g) = 269223
+  Class 9 (order 5): dim C_V(g) = 107687
+  Class 10 (order 7): dim C_V(g) = 76911
+  Class 17 (order 11): dim C_V(g) = 48947
+  Class 18 (order 13): dim C_V(g) = 41415
+  Class 19 (order 13): dim C_V(g) = 41415
+  Class 24 (order 17): dim C_V(g) = 31671
+  Class 30 (order 23): dim C_V(g) = 23409
+  Class 31 (order 23): dim C_V(g) = 23409
+
+Character 16 (degree 725374):
+  Class 2 (order 2): dim C_V(g) = 350350
+  Class 3 (order 2): dim C_V(g) = 361934
+  Class 4 (order 2): dim C_V(g) = 362750
+  Class 9 (order 5): dim C_V(g) = 145074
+  Class 10 (order 7): dim C_V(g) = 103624
+  Class 17 (order 11): dim C_V(g) = 65944
+  Class 18 (order 13): dim C_V(g) = 55798
+  Class 19 (order 13): dim C_V(g) = 55798
+  Class 24 (order 17): dim C_V(g) = 42670
+  Class 30 (order 23): dim C_V(g) = 31538
+  Class 31 (order 23): dim C_V(g) = 31538
+
+Character 17 (degree 725374):
+  Class 2 (order 2): dim C_V(g) = 350350
+  Class 3 (order 2): dim C_V(g) = 361934
+  Class 4 (order 2): dim C_V(g) = 362750
+  Class 9 (order 5): dim C_V(g) = 145074
+  Class 10 (order 7): dim C_V(g) = 103624
+  Class 17 (order 11): dim C_V(g) = 65944
+  Class 18 (order 13): dim C_V(g) = 55798
+  Class 19 (order 13): dim C_V(g) = 55798
+  Class 24 (order 17): dim C_V(g) = 42670
+  Class 30 (order 23): dim C_V(g) = 31538
+  Class 31 (order 23): dim C_V(g) = 31538
+
+Character 18 (degree 818972):
+  Class 2 (order 2): dim C_V(g) = 432124
+  Class 3 (order 2): dim C_V(g) = 409724
+  Class 4 (order 2): dim C_V(g) = 409372
+  Class 9 (order 5): dim C_V(g) = 163792
+  Class 10 (order 7): dim C_V(g) = 116996
+  Class 17 (order 11): dim C_V(g) = 74452
+  Class 18 (order 13): dim C_V(g) = 62996
+  Class 19 (order 13): dim C_V(g) = 62996
+  Class 24 (order 17): dim C_V(g) = 48172
+  Class 30 (order 23): dim C_V(g) = 35607
+  Class 31 (order 23): dim C_V(g) = 35607
+
+Character 19 (degree 818972):
+  Class 2 (order 2): dim C_V(g) = 432124
+  Class 3 (order 2): dim C_V(g) = 409724
+  Class 4 (order 2): dim C_V(g) = 409372
+  Class 9 (order 5): dim C_V(g) = 163792
+  Class 10 (order 7): dim C_V(g) = 116996
+  Class 17 (order 11): dim C_V(g) = 74452
+  Class 18 (order 13): dim C_V(g) = 62996
+  Class 19 (order 13): dim C_V(g) = 62996
+  Class 24 (order 17): dim C_V(g) = 48172
+  Class 30 (order 23): dim C_V(g) = 35607
+  Class 31 (order 23): dim C_V(g) = 35607
+
+Character 20 (degree 1252120):
+  Class 2 (order 2): dim C_V(g) = 595848
+  Class 3 (order 2): dim C_V(g) = 627144
+  Class 4 (order 2): dim C_V(g) = 625944
+  Class 9 (order 5): dim C_V(g) = 250420
+  Class 10 (order 7): dim C_V(g) = 178876
+  Class 17 (order 11): dim C_V(g) = 113830
+  Class 18 (order 13): dim C_V(g) = 96316
+  Class 19 (order 13): dim C_V(g) = 96316
+  Class 24 (order 17): dim C_V(g) = 73656
+  Class 30 (order 23): dim C_V(g) = 54440
+  Class 31 (order 23): dim C_V(g) = 54440
+
+Character 21 (degree 2317180):
+  Class 2 (order 2): dim C_V(g) = 1181004
+  Class 3 (order 2): dim C_V(g) = 1156876
+  Class 4 (order 2): dim C_V(g) = 1158780
+  Class 9 (order 5): dim C_V(g) = 463440
+  Class 10 (order 7): dim C_V(g) = 331024
+  Class 17 (order 11): dim C_V(g) = 210650
+  Class 18 (order 13): dim C_V(g) = 178246
+  Class 19 (order 13): dim C_V(g) = 178246
+  Class 24 (order 17): dim C_V(g) = 136300
+  Class 30 (order 23): dim C_V(g) = 100746
+  Class 31 (order 23): dim C_V(g) = 100746
+
+Character 22 (degree 2541706):
+  Class 2 (order 2): dim C_V(g) = 1320682
+  Class 3 (order 2): dim C_V(g) = 1271402
+  Class 4 (order 2): dim C_V(g) = 1271178
+  Class 9 (order 5): dim C_V(g) = 508346
+  Class 10 (order 7): dim C_V(g) = 363100
+  Class 17 (order 11): dim C_V(g) = 231066
+  Class 18 (order 13): dim C_V(g) = 195514
+  Class 19 (order 13): dim C_V(g) = 195514
+  Class 24 (order 17): dim C_V(g) = 149514
+  Class 30 (order 23): dim C_V(g) = 110508
+  Class 31 (order 23): dim C_V(g) = 110508
+
+Character 23 (degree 2587707):
+  Class 2 (order 2): dim C_V(g) = 1361691
+  Class 3 (order 2): dim C_V(g) = 1294875
+  Class 4 (order 2): dim C_V(g) = 1294011
+  Class 9 (order 5): dim C_V(g) = 517527
+  Class 10 (order 7): dim C_V(g) = 369675
+  Class 17 (order 11): dim C_V(g) = 235247
+  Class 18 (order 13): dim C_V(g) = 199053
+  Class 19 (order 13): dim C_V(g) = 199053
+  Class 24 (order 17): dim C_V(g) = 152219
+  Class 30 (order 23): dim C_V(g) = 112509
+  Class 31 (order 23): dim C_V(g) = 112509
+
+Character 24 (degree 4372622):
+  Class 2 (order 2): dim C_V(g) = 2098910
+  Class 3 (order 2): dim C_V(g) = 2187038
+  Class 4 (order 2): dim C_V(g) = 2186254
+  Class 9 (order 5): dim C_V(g) = 874502
+  Class 10 (order 7): dim C_V(g) = 624662
+  Class 17 (order 11): dim C_V(g) = 397512
+  Class 18 (order 13): dim C_V(g) = 336356
+  Class 19 (order 13): dim C_V(g) = 336356
+  Class 24 (order 17): dim C_V(g) = 257214
+  Class 30 (order 23): dim C_V(g) = 190114
+  Class 31 (order 23): dim C_V(g) = 190114
+
+Character 25 (degree 7116660):
+  Class 2 (order 2): dim C_V(g) = 3419604
+  Class 3 (order 2): dim C_V(g) = 3559764
+  Class 4 (order 2): dim C_V(g) = 3558516
+  Class 9 (order 5): dim C_V(g) = 1423340
+  Class 10 (order 7): dim C_V(g) = 1016664
+  Class 17 (order 11): dim C_V(g) = 646970
+  Class 18 (order 13): dim C_V(g) = 547434
+  Class 19 (order 13): dim C_V(g) = 547434
+  Class 24 (order 17): dim C_V(g) = 418628
+  Class 30 (order 23): dim C_V(g) = 309420
+  Class 31 (order 23): dim C_V(g) = 309420
+
+Character 26 (degree 7260778):
+  Class 2 (order 2): dim C_V(g) = 3742794
+  Class 3 (order 2): dim C_V(g) = 3628618
+  Class 4 (order 2): dim C_V(g) = 3630058
+  Class 9 (order 5): dim C_V(g) = 1452138
+  Class 10 (order 7): dim C_V(g) = 1037254
+  Class 17 (order 11): dim C_V(g) = 660068
+  Class 18 (order 13): dim C_V(g) = 558520
+  Class 19 (order 13): dim C_V(g) = 558520
+  Class 24 (order 17): dim C_V(g) = 427098
+  Class 30 (order 23): dim C_V(g) = 315686
+  Class 31 (order 23): dim C_V(g) = 315686
+
+Character 27 (degree 10241165):
+  Class 2 (order 2): dim C_V(g) = 4985805
+  Class 3 (order 2): dim C_V(g) = 5119309
+  Class 4 (order 2): dim C_V(g) = 5120781
+  Class 9 (order 5): dim C_V(g) = 2048245
+  Class 10 (order 7): dim C_V(g) = 1463021
+  Class 17 (order 11): dim C_V(g) = 931015
+  Class 18 (order 13): dim C_V(g) = 787787
+  Class 19 (order 13): dim C_V(g) = 787787
+  Class 24 (order 17): dim C_V(g) = 602429
+  Class 30 (order 23): dim C_V(g) = 445269
+  Class 31 (order 23): dim C_V(g) = 445269
+
+Character 28 (degree 14540255):
+  Class 2 (order 2): dim C_V(g) = 7298975
+  Class 3 (order 2): dim C_V(g) = 7264415
+  Class 4 (order 2): dim C_V(g) = 7269855
+  Class 9 (order 5): dim C_V(g) = 2908055
+  Class 10 (order 7): dim C_V(g) = 2077175
+  Class 17 (order 11): dim C_V(g) = 1321845
+  Class 18 (order 13): dim C_V(g) = 1118483
+  Class 19 (order 13): dim C_V(g) = 1118483
+  Class 24 (order 17): dim C_V(g) = 855311
+  Class 30 (order 23): dim C_V(g) = 632185
+  Class 31 (order 23): dim C_V(g) = 632185
+
+Character 29 (degree 25951520):
+  Class 2 (order 2): dim C_V(g) = 13186944
+  Class 3 (order 2): dim C_V(g) = 12969472
+  Class 4 (order 2): dim C_V(g) = 12976416
+  Class 9 (order 5): dim C_V(g) = 5190300
+  Class 10 (order 7): dim C_V(g) = 3707360
+  Class 17 (order 11): dim C_V(g) = 2359230
+  Class 18 (order 13): dim C_V(g) = 1996268
+  Class 19 (order 13): dim C_V(g) = 1996268
+  Class 24 (order 17): dim C_V(g) = 1526560
+  Class 30 (order 23): dim C_V(g) = 1128326
+  Class 31 (order 23): dim C_V(g) = 1128326
+
+Character 30 (degree 27425385):
+  Class 2 (order 2): dim C_V(g) = 14040729
+  Class 3 (order 2): dim C_V(g) = 13713753
+  Class 4 (order 2): dim C_V(g) = 13712361
+  Class 9 (order 5): dim C_V(g) = 5485085
+  Class 10 (order 7): dim C_V(g) = 3917919
+  Class 17 (order 11): dim C_V(g) = 2493215
+  Class 18 (order 13): dim C_V(g) = 2109645
+  Class 19 (order 13): dim C_V(g) = 2109645
+  Class 24 (order 17): dim C_V(g) = 1613257
+  Class 30 (order 23): dim C_V(g) = 1192409
+  Class 31 (order 23): dim C_V(g) = 1192409
+
+Character 31 (degree 29713355):
+  Class 2 (order 2): dim C_V(g) = 14619771
+  Class 3 (order 2): dim C_V(g) = 14854715
+  Class 4 (order 2): dim C_V(g) = 14856779
+  Class 9 (order 5): dim C_V(g) = 5942675
+  Class 10 (order 7): dim C_V(g) = 4244771
+  Class 17 (order 11): dim C_V(g) = 2701215
+  Class 18 (order 13): dim C_V(g) = 2285645
+  Class 19 (order 13): dim C_V(g) = 2285645
+  Class 24 (order 17): dim C_V(g) = 1747851
+  Class 30 (order 23): dim C_V(g) = 1291885
+  Class 31 (order 23): dim C_V(g) = 1291885
+
+Character 32 (degree 34753159):
+  Class 2 (order 2): dim C_V(g) = 17037911
+  Class 3 (order 2): dim C_V(g) = 17370391
+  Class 4 (order 2): dim C_V(g) = 17376903
+  Class 9 (order 5): dim C_V(g) = 6950619
+  Class 10 (order 7): dim C_V(g) = 4964737
+  Class 17 (order 11): dim C_V(g) = 3159379
+  Class 18 (order 13): dim C_V(g) = 2673319
+  Class 19 (order 13): dim C_V(g) = 2673319
+  Class 24 (order 17): dim C_V(g) = 2044311
+  Class 30 (order 23): dim C_V(g) = 1511005
+  Class 31 (order 23): dim C_V(g) = 1511005
+
+Character 33 (degree 207793431):
+  Class 2 (order 2): dim C_V(g) = 102712455
+  Class 3 (order 2): dim C_V(g) = 103909959
+  Class 4 (order 2): dim C_V(g) = 103895703
+  Class 9 (order 5): dim C_V(g) = 41558691
+  Class 10 (order 7): dim C_V(g) = 29684775
+  Class 17 (order 11): dim C_V(g) = 18890311
+  Class 18 (order 13): dim C_V(g) = 15984111
+  Class 19 (order 13): dim C_V(g) = 15984111
+  Class 24 (order 17): dim C_V(g) = 12223143
+  Class 30 (order 23): dim C_V(g) = 9034497
+  Class 31 (order 23): dim C_V(g) = 9034497
+
+Character 34 (degree 289103904):
+  Class 2 (order 2): dim C_V(g) = 145916640
+  Class 3 (order 2): dim C_V(g) = 144548064
+  Class 4 (order 2): dim C_V(g) = 144553248
+  Class 9 (order 5): dim C_V(g) = 57820764
+  Class 10 (order 7): dim C_V(g) = 41300562
+  Class 17 (order 11): dim C_V(g) = 26282174
+  Class 18 (order 13): dim C_V(g) = 22238760
+  Class 19 (order 13): dim C_V(g) = 22238760
+  Class 24 (order 17): dim C_V(g) = 17006112
+  Class 30 (order 23): dim C_V(g) = 12569734
+  Class 31 (order 23): dim C_V(g) = 12569734
+
+Character 35 (degree 476702577):
+  Class 2 (order 2): dim C_V(g) = 239246865
+  Class 3 (order 2): dim C_V(g) = 238313745
+  Class 4 (order 2): dim C_V(g) = 238352625
+  Class 9 (order 5): dim C_V(g) = 95340537
+  Class 10 (order 7): dim C_V(g) = 68100363
+  Class 17 (order 11): dim C_V(g) = 43336597
+  Class 18 (order 13): dim C_V(g) = 36669429
+  Class 19 (order 13): dim C_V(g) = 36669429
+  Class 24 (order 17): dim C_V(g) = 28041329
+  Class 30 (order 23): dim C_V(g) = 20726199
+  Class 31 (order 23): dim C_V(g) = 20726199
+
+
+
