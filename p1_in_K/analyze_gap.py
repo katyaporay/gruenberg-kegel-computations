@@ -1,10 +1,10 @@
-from draw.build_and_draw import get_primes
+from draw.create_graph import get_primes
 from draw.saved_info import check_edge, clear_name
 
 edges_by_group = dict()
 extra_groups = ["Fi23"]
 
-with open('gap_exp/fixedpoint_main.txt', 'r') as file:
+with open('p1_in_K/fixedpoint_main.txt', 'r') as file:
     next(file)
     for line in file:
         group, chi_id, p1, p2, cls, sz = line.split(" ")

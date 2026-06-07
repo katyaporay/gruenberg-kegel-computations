@@ -1,4 +1,4 @@
-from draw.build_and_draw import build_and_draw
+from draw.create_graph import build_and_draw
 
 
 cands_by_group = dict()
@@ -27,8 +27,3 @@ def create_cands_graph(group_name):
         group_creation = f"G := SimpleGroup(\\\"{cand_group_name}\\\");"
         build_and_draw(cand_group_name, file_name, group_creation)
 
-
-for group in cands_by_group:
-    create_graph(group)
-    create_aut_graph(group)
-    create_cands_graph(group)
