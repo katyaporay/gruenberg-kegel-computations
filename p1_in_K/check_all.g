@@ -16,7 +16,7 @@ group_names := [
 additional_groups := [
     ["M22", "M22", [3, 5, 7]],
     ["M22.2", "M22.2", [2]],
-    ["Fi23", "Fi23", [3]],
+    ["Fi23", "Fi23", [2, 3]],
 ];
 
 # Print first lines for debug
